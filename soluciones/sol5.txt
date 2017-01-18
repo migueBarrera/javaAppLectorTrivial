@@ -1,0 +1,46 @@
+1 C Autoridad del árbitro + Poderes y deberes.
+2 B Poderes y deberes.
+3 C Poderes y deberes
+4 A Poderes y deberes. Medidas disciplinarias.
+5 A Regla 3. Jugador fuera del terreno de juego.
+6 B Poderes y deberes. Medidas disciplinarias + Regla 3
+7 C Poderes y deberes. Lesiones.
+8 C
+9 A
+10 A Regla 3. Capitán del equipo.
+11 B Jugador fuera del terreno de juego.
+12 B Poderes y deberes. Medidas disciplinarias.
+13 A Poderes y deberes. La ventaja.
+14 A
+15 B Regla 6.
+16 A Decisiones del árbitro.
+17 D Decisiones del árbitro.
+18 C El árbitro se considera “aire”.
+19 C
+20 A Poderes y deberes. La ventaja.
+21 D Insubordinación. Estatutos.
+22 D Poderes y deberes. Lesiones.
+23 C Poderes y deberes. La ventaja.
+24 D No son del mismo equipo.
+25 C Regla 6.
+26 D Poderes y deberes. Interferencia externa.
+27 B Poderes y deberes. Lesiones.
+28 C Poderes y deberes. La ventaja.
+29 D Poderes y deberes. Interferencia externa + aplicación ventaja.
+30 C
+31 C Regla 1. Porterías.
+32 C Poderes y deberes. Lesiones.
+33 B Poderes y deberes. Interferencia externa.
+34 D Poderes y deberes + Regla 12. Ventaja.
+35 C Regla 12. Retrasar la reanudación del juego.
+36 B Poderes y deberes. Medidas disciplinarias.
+37 B Poderes y deberes. Medidas disciplinarias.
+38 A Regla 12. Medidas disciplinarias.
+39 D Poderes y deberes. Interferencia externa.
+40 A Regla 5. Decisiones del árbitro + Regla 6.
+41 A Poderes y deberes. Interferencia externa.
+42 A Poderes y deberes. Medidas disciplinarias.
+43 C Poderes y deberes. Lesiones.
+44 D
+Faltaría que se produce con contacto físico y su evaluación debe
+efectuarse rápidamente.
