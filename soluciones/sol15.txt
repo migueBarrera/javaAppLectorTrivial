@@ -1,0 +1,88 @@
+1 D Regla 15. Introducción.
+2 C Tiene que estar de frente al terreno de juego.
+3 D Si se pone en juego incorrectamente, no se aplica ventaja.
+4 B Regla 15. Procedimiento. Ejecución incorrecta.
+5 C Regla 15. Procedimiento. Ejecución incorrecta.
+6 C Regla 16. Infracciones y sanciones.
+7 A Regla 16. Infracciones y sanciones.
+8 C Regla 16. Procedimiento.
+9 A Regla 16. Procedimiento.
+10 D El árbitro es “aire”.
+11 D Depende de si el balón estaba en juego o no.
+12 C Regla 15. Procedimiento.
+13 B El balón no está en juego.
+14 C El balón no está en juego.
+15 C El balón no está en juego.
+16 A Regla 17. Procedimiento.
+17 A No se puede conseguir gol directamente en propia meta.
+18 D Regla 16. Introducción.
+19 D No se puede conseguir gol directamente en propia meta.
+20 D Regla 16. Introducción.
+21 C Regla 15. Procedimiento.
+22 C Regla 17. Introducción.
+23 C
+24 A Regla 11. No es infracción.
+25 D Regla 17. Procedimiento.
+26 A Regla 17. Procedimiento.
+27 D Regla 17. Procedimiento.
+28 B A 9,15 del cuadrante + 1 metro del cuadrante = 10,15
+29 D Depende del Procedimiento de cada Regla.
+30 A
+31 C Regla 15. Procedimiento.
+32 C Regla 17. Infracciones y sanciones.
+33 A Regla 13. Procedimiento (análogo).
+34 A Si se pone en juego incorrectamente, no se aplica ventaja.
+35 C No se puede conseguir gol directamente en propia meta.
+36 C Regla 17. Procedimiento.
+37 D
+Regla 17. Infracciones y sanciones. Depende de si se efectuó
+correctamente y si es el guardameta o un jugador.
+38 D Regla 17. Infracciones y sanciones.
+39 B Depende de si se ejecutó correctamente o no.
+40 A Regla 15. Procedimiento.
+41 B Regla 15. Infracciones y sanciones.
+42 D Regla 15. Procedimiento.
+43 C El balón no está en juego.
+44 B
+45 A Depende por el lugar que salga del TJ y si se ejecutó correctamente.
+46 D Regla 15. Procedimiento.
+47 D Regla 15. Infracciones y sanciones.
+48 D Depende de si se ejecutó correctamente o no.
+49 B No existe ataque prometedor.
+50 A
+51 C El balón no está en juego.
+52 D Regla 15. Procedimiento.
+53 D Se trata de la Regla 15 y no de la 16.
+54 C Infracciones y sanciones de las Reglas 15, 16 y 17.
+55 D Tiro libre directo.
+56 A Regla 15. Introducción.
+57 A Regla 15. Procedimiento.
+58 D Regla 15. Procedimiento.
+59 D Depende de si se ejecutó correctamente o no y en qué meta.
+60 D Únicamente si el saque fue ejecutado correctamente.
+61 D Regla 15. Procedimiento.
+62 B El balón no está en juego.
+63 D El balón no está en juego.
+64 B Depende de si impidió ataque prometedor/ocasión manifiesta de gol.
+65 D
+66 D Depende de si se pone en balón en juego o no.
+67 D Depende de si se pone en balón en juego o no.
+68 B Regla 16. Procedimiento.
+69 A
+70 B Deben estar fuera del área de penalti.
+71 B El balón no está en juego.
+72 C El balón no está en juego.
+73 B El balón no está en juego (10 + 5,5 máx.) = 15,5
+74 C Regla 17. Infracciones y sanciones.
+75 B Regla 17. Infracciones y sanciones.
+76 D
+77 D
+78 B Depende de con qué parte del cuerpo lo toque.
+79 A Regla 5. Poderes y deberes. Interferencia externa.
+80 B Regla 17. Introducción.
+81 C Puede haber finalizado el primer tiempo, el partido o incluso gol.
+82 C Regla 17. Procedimiento.
+83 A El balón no ha entrado directamente.
+84 A Regla 15. Infracciones y sanciones.
+85 B Regla 15. Infracciones y sanciones.
+86 A Procedimiento e Infracciones y sanciones.
