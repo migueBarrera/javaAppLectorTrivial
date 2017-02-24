@@ -485,7 +485,7 @@ a) Sí, siempre.
 b) No.
 c) Sí, excepto en un penalti.
 d) Ninguna respuesta es correcta.
-69. Un jugador se dispone a ejecutar el saque inicial para dar comienzo al partido, cuando un
+69.- Un jugador se dispone a ejecutar el saque inicial para dar comienzo al partido, cuando un
 compañero suyo golpea de forma violenta a otro jugador del equipo adversario. ¿Es correcto que
 dicho jugador sea expulsado y su equipo juegue con 10 jugadores?
 a) No, nunca.

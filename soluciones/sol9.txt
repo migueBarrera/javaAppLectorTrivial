@@ -1,0 +1,9 @@
+1 B Balón en juego.
+2 A Balón fuera de juego.
+3 A Balón fuera de juego.
+4 B Balón en juego.
+5 B Balón en juego.
+6 D
+Puede ser saque de meta, de esquina, saque inicial (fin del primer
+período) o fin del partido.
+7 D No es necesario que el miembro arbitral se encuentre dentro del TJ.

@@ -13,119 +13,119 @@ import java.io.IOException;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		
+		System.out.println("INICIO DEL PROGRAMA");
 		//CAMBIAR ESTOS DATOS SEGUN LA REGLA
-		int numeroDeRegla = 5;
-		
-		int REGLA_ID = numeroDeRegla;
-		String tituloRegla = "reglas/"+numeroDeRegla+".txt";
-		String tituloSolucion = "soluciones/sol"+numeroDeRegla+".txt";
-		
-		
-		
-		
-		Respuesta respuesta;
-		Pregunta pregunta;
-		Solucion solucion;
-		int pregunta_id;
-		int contadorRespuesta;
-		String correcta;
-		ManejadoraDataBase manejadoraBD =new ManejadoraDataBase();
-		
-		
-		
-
-		    
-		    BufferedReader brRegla = null;
-			FileReader frRegla = null;
+				int numeroDeRegla = 1;
+		do{
+			int REGLA_ID = numeroDeRegla;
+			String tituloRegla = "reglas/"+numeroDeRegla+".txt";
+			String tituloSolucion = "soluciones/sol"+numeroDeRegla+".txt";
 			
-			FileReader frSolucion= null;
-			BufferedReader brSolucion = null;
-		    try {
 
-			   
-			    //Lector Regla
-				frRegla = new FileReader(tituloRegla);
-				brRegla = new BufferedReader(frRegla);
-				
-				//Lector Solucion
-				frSolucion = new FileReader(tituloSolucion);
-				brSolucion = new BufferedReader(frSolucion);
-				
-				String linea;
-				String lineapreparada;
+			Respuesta respuesta;
+			Pregunta pregunta;
+			Solucion solucion;
+			int pregunta_id;
+			int contadorRespuesta;
+			String correcta;
+			ManejadoraDataBase manejadoraBD =new ManejadoraDataBase();
 
+			    
+			    BufferedReader brRegla = null;
+				FileReader frRegla = null;
 				
-				linea = brRegla.readLine();
-				while (linea != null) {
+				FileReader frSolucion= null;
+				BufferedReader brSolucion = null;
+			    try {
+
+				   
+				    //Lector Regla
+					frRegla = new FileReader(tituloRegla);
+					brRegla = new BufferedReader(frRegla);
 					
-					//Si la linea contiene .- => estamos la primera linea de una pregunta
-					while (linea.contains(".-")) {
+					//Lector Solucion
+					frSolucion = new FileReader(tituloSolucion);
+					brSolucion = new BufferedReader(frSolucion);
+					
+					String linea;
+					String lineapreparada;
+
+					
+					linea = brRegla.readLine();
+					while (linea != null) {
 						
-						lineapreparada = linea.substring(4);//le quitamos la primera parte n.-
-						
-						linea = brRegla.readLine();
-						//Mientras siga siendo la pregunta
-						while (!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)") ) {
-							lineapreparada = lineapreparada + linea;
+						//Si la linea contiene .- => estamos la primera linea de una pregunta
+						while (linea.contains(".-")) {
+							
+							lineapreparada = linea.substring(4);//le quitamos la primera parte n.-
 							
 							linea = brRegla.readLine();
-						}
-						//Ya tenemos la pregunta Y la insertamos
-						solucion = obtenerSolucion(brSolucion);
-						pregunta = new Pregunta(REGLA_ID, lineapreparada);
-						
-						//Si tiene anotacion se la añadimos
-						if(solucion.getAnotacion()!=""){
-							pregunta.setAnotacion(solucion.getAnotacion());
-						}
-						pregunta_id = manejadoraBD.insertarPregunta(pregunta);
-						System.out.println("PREGUNTA ------------------->");
-						
-						
-						contadorRespuesta = 0;
-						//Mientras tenga a) o b) o c) o d) sera una nueva respuesta
-						while(linea.contains("a)") || linea.contains("b)")|| linea.contains("c)") || linea.contains("d)") ){
-							lineapreparada = linea.substring(2);
-							contadorRespuesta++;
-							linea = brRegla.readLine();
-							//Mientras siga siendo la respuesta
-							while ((!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)")) && !linea.contains("FIN") && !linea.contains(".-") ) {
-								lineapreparada = lineapreparada + linea;
+							//Mientras siga siendo la pregunta
+							while (!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)") ) {
+								lineapreparada = lineapreparada +" "+ linea;
 								
 								linea = brRegla.readLine();
 							}
-							correcta = calcularCorrecta(solucion, contadorRespuesta);
-							respuesta = new Respuesta(pregunta_id, lineapreparada,correcta);
-							manejadoraBD.insertarRespuesta(respuesta);
-							System.out.println("RESPUESTA --->");
+							//Ya tenemos la pregunta Y la insertamos
+							solucion = obtenerSolucion(brSolucion);
+							pregunta = new Pregunta(REGLA_ID, lineapreparada);
 							
+							//Si tiene anotacion se la añadimos
+							if(solucion.getAnotacion()!=""){
+								pregunta.setAnotacion(solucion.getAnotacion());
+							}
+							pregunta_id = manejadoraBD.insertarPregunta(pregunta);
+							//System.out.println("PREGUNTA ------------------->");
+							
+							
+							contadorRespuesta = 0;
+							//Mientras tenga a) o b) o c) o d) sera una nueva respuesta
+							while(linea.contains("a)") || linea.contains("b)")|| linea.contains("c)") || linea.contains("d)") ){
+								lineapreparada = linea.substring(2);
+								contadorRespuesta++;
+								linea = brRegla.readLine();
+								//Mientras siga siendo la respuesta
+								while ((!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)")) && !linea.contains("FIN") && !linea.contains(".-") ) {
+									lineapreparada = lineapreparada +" "+ linea;
+									
+									linea = brRegla.readLine();
+								}
+								correcta = calcularCorrecta(solucion, contadorRespuesta);
+								respuesta = new Respuesta(pregunta_id, lineapreparada,correcta);
+								manejadoraBD.insertarRespuesta(respuesta);
+								//System.out.println("RESPUESTA --->");
+								
+							}			
+
 						}
 						
-
+						linea = brRegla.readLine();
 					}
-					
-					linea = brRegla.readLine();
-				}
 
-				} catch (IOException ex) {
-					ex.printStackTrace();
+					} catch (IOException ex) {
+						ex.printStackTrace();
 
-				}finally {
-					try {
-						brRegla.close();
-						brSolucion.close();
-					} catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
+					}finally {
+						try {
+							brRegla.close();
+							brSolucion.close();
+						} catch (IOException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
 					}
-				}
-		    
+			    
+			
+			numeroDeRegla++;
+		}while(numeroDeRegla<=15);
 		
-
+		System.out.println("FIN DEL PROGRAMA");
 		
 	}
+	
+	
+	
+	//METODOS
 	
 	public static String calcularCorrecta(Solucion solucion,int contador){
 		String correcta = "F";
@@ -170,7 +170,7 @@ public class Main {
 				st.nextToken();//El numero primero no nos interesa
 				solucion.setCorrecta(st.nextToken());
 				while (st.hasMoreTokens()) {
-					lineaAnotacion = lineaAnotacion + st.nextToken();
+					lineaAnotacion = lineaAnotacion +" "+ st.nextToken();
 				}
 				solucion.setAnotacion(lineaAnotacion);
 			}
