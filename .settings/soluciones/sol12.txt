@@ -1,0 +1,118 @@
+1 C Tocar el balón con la mano.
+2 A Conducta antideportiva. Falta de respeto por el juego.
+3 A Modificación 2016-2017.
+4 B Sólo sería con el pie y cedido de forma intencionada.
+5 A Juego Brusco Grave.
+6 C Conducta antideportiva + TLI (cualquier otra no mencionada).
+7 A Infracciones sancionables con expulsión.
+8 D Tiro libre directo.
+9 A Tiro libre indirecto.
+10 D Balón fuera de juego = Conducta violenta.
+11 C Infracciones sancionables con expulsión. Nueva terminología.
+12 B Impedir un gol o una ocasión manifiesta de gol. Modificación 16-17.
+13 C TLI. “Intencionadamente” + En juego en todo momento.
+14 D Infracciones sancionables con expulsión.
+15 C Regla 5. Poderes y deberes. Infracción más grave.
+16 B Sólo podrá hacerlo en el TJ y sus inmediaciones.
+17 D Regla 3. Jugador fuera del TJ + Regla 13. Procedimiento.
+18 C Desaprobar con palabras o acciones.
+19 C Infracción física contra el árbitro. Modificación 2016-2017.
+20 C El balón no está en juego hasta que toca el suelo.
+21 C Conducta antideportiva. Falta de respeto por el juego.
+22 B Infracciones relacionadas con el lanzamiento de objetos…
+23 B
+24 D
+25 A
+26 C
+27 D
+28 B Retardar.
+29 C Reanudación tras falta y conducta incorrecta. Modificación 16-17.
+30 B El guardameta estará en posesión del balón.
+31 B Impide o no un ataque prometedor.
+32 A Medidas disciplinarias. Ventaja.
+33 D Reanudación tras falta y conducta incorrecta. Modificación 16-17.
+34 A El balón dejó de estar en juego = Conducta violenta.
+35 C
+36 C Regla 3. Jugador fuera del TJ + Regla 13. Procedimiento.
+37 A Tiro libre directo.
+38 B Sólo podrá hacerlo en el terreno de juego y sus inmediaciones.
+39 B Juego peligroso.
+40 D
+41 B Modificación 2016-2017.
+42 C “Despejándolo” + Excepto salvada.
+43 C Regla 3. Personas no autorizadas en el terreno de juego.
+44 D Tocar el balón con la mano.
+45 C Reanudación tras falta y conducta incorrecta.
+46 B Reanudación tras falta y conducta incorrecta.
+47 C Depende de la fuerza empleada. Tiro de penalti al ser en su AP.
+48 C Conducta antideportiva + TLI (cualquier otra no mencionada).
+49 D
+50 C Repercusión: ataque prometedor / oportunidad manifiesta de gol.
+51 C
+52 A Las opciones B y C son incompletas.
+53 C Regla 5. Poderes y deberes. Infracción más grave.
+54 A El espacio forma parte del TJ. Definición P. 175 + Gráfico P. 21.
+55 B
+56 D Conducta antideportiva. Falta de respeto por el juego.
+57 B Reanudación del juego tras falta y conducta incorrecta.
+58 D La infracción se comete sobre el balón.
+59 C Regla 3. Personas no autorizadas en el terreno de juego.
+60 A La infracción la comete el jugador.
+61 D Depende de si se trata de jugador o guardameta.
+62 D
+63 B Se mantiene la amonestación en infracciones que impliquen “daño”.
+64 C Regla 3. Personas no autorizadas en el terreno de juego.
+65 D
+66 A Tiro libre directo.
+67 C Regla 11. Infracciones y sanciones.
+68 A Regla 3. Procedimiento de sustitución.
+69 C
+70 A Infracción física contra el árbitro. Modificación 2016-2017.
+71 B Regla 5. Poderes y deberes. Interferencia externa.
+72 D Modificación 2016-2017.
+73 D Infracción verbal.
+74 C Juego Brusco Grave.
+75 A Conducta antideportiva. Falta de respeto por el juego.
+76 C No sería gol, por lo que no puede ser expulsión.
+77 A
+78 C Regla 5. Poderes y deberes. Infracción más grave.
+79 D Depende del lugar y de quién fuese el agredido.
+80 B
+81 A
+82 C Tiro libre directo.
+83 C Regla 3. Jugador fuera del TJ + Regla 13. Procedimiento.
+84 C No se considera conducta antideportiva.
+85 C Salida deliberada.
+86 B
+87 B Regla 3. Personas no autorizadas en el TJ + Motivo de expulsión.
+88 B Regla 3. Personas no autorizadas en el TJ + Motivo de expulsión.
+89 C Juego peligroso.
+90 B Regla 5. Infracción más grave.
+91 D Jugador fuera de terreno de juego.
+92 B Depende de si fue el guardameta o no y si la mano fue deliberada.
+93 C Se sanciona donde impacta o hubiera impactado.
+94 B Medidas disciplinarias. Ventaja.
+95 B CV = Balón en juego o no + JBG = Balón en juego y disputa.
+96 C Aplicar ventaja + Infracciones sancionables con A para sustitutos.
+97 D
+98 B Son de la misma repercusión.
+99 D Se considera cesión ya que el guardameta se “aprovecha”.
+100 C Falta táctica con aplicación de ventaja = No tarjeta.
+101 A Reanudación del juego tras falta y conducta incorrecta.
+102 D Depende de si una infracción se considera más grave que la otra.
+103 B El balón está fuera de juego.
+104 D Infracción física contra el árbitro. Modificación 2016-2017.
+105 C
+106 D Depende del tipo de infracción.
+107 C
+108 C Medidas disciplinarias. Ventaja.
+109 C Ocasión manifiesta de gol.
+110 C Depende del lugar y de quién fuese el agredido.
+111 B Juego Brusco Grave + Regla 13. Procedimiento.
+112 B Modificación 2016-2017.
+113 C Depende del tipo de infracción.
+114 C Infracciones relacionadas con el lanzamiento de objetos…
+115 B No siempre (véase Conducta antideportiva).
+116 D
+117 C Regla 8. Balón a tierra. Procedimiento.
+118 A

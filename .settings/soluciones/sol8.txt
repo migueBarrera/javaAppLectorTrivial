@@ -1,0 +1,35 @@
+1 D Saque inicial. Procedimiento.
+2 B Balón a tierra. Procedimiento.
+3 A Balón a tierra. Infracciones y sanciones.
+4 B Regla 5. Poderes y deberes.
+5 C Balón a tierra. Infracciones y sanciones.
+6 A Saque inicial. Infracciones y sanciones.
+7 A Saque inicial. Procedimiento.
+8 B Balón a tierra. Regla 2. Sustitución de un balón defectuoso.
+9 C Balón a tierra. Procedimiento.
+10 C Saque inicial. Procedimiento.
+11 D Regla 3. Infracciones y sanciones.
+12 D
+13 D Saque inicial. Procedimiento.
+14 A Introducción de la Regla 8.
+15 A Saque inicial. Procedimiento.
+16 C Balón a tierra. Infracciones y sanciones.
+17 C Saque inicial. Procedimiento.
+18 A
+19 C Saque inicial. Infracciones y sanciones.
+20 B Regla 8 + Regla 15.
+21 D
+22 B Saque inicial. Infracciones y sanciones.
+23 A Balón a tierra. Procedimiento.
+24 B Balón a tierra. Procedimiento.
+25 D Saque inicial. Infracciones y sanciones.
+26 C Introducción de la Regla 8 + Procedimiento saque inicial
+27 A Depende de si el balón está en juego o no.
+28 C Balón a tierra. Procedimiento.
+29 A Saque inicial. Infracciones y sanciones.
+30 D
+31 B Saque inicial. Procedimiento.
+32 C
+33 C Regla 5. Poderes y deberes. Medidas disciplinarias (Mod. 16-17)
+34 B Balón a tierra. Infracciones y sanciones. Depende de la meta.
+35 C
