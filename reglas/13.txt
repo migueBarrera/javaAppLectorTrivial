@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.- Un jugador ejecuta un tiro libre correctamente desde su propia área de penalti. ¿Cuándo pueden
 los jugadores adversarios entrar en el área de penalti?
 a) Después de que el balón es pateado y se ponga en movimiento.
@@ -340,4 +341,348 @@ b) El tiro penal.
 c) Tipos de tiros libres.
 d) Ninguna es correcta.
 
+=======
+1.- Un jugador ejecuta un tiro libre correctamente desde su propia área de penalti. ¿Cuándo pueden
+los jugadores adversarios entrar en el área de penalti?
+a) Después de que el balón es pateado y se ponga en movimiento.
+b) Después de que el balón es pateado y se ponga en movimiento con claridad.
+c) No pueden entrar hasta que el balón haya sido jugado por otro jugador.
+d) Cuando el balón haya salido de dicha área.
+2.- Después de colocar a los jugadores defensores a la distancia reglamentaria en un tiro libre
+directo, el árbitro ve que el guardameta está colocando desde un poste a sus compañeros. Decisión:
+a) Espera a que se coloque la barrera y ordena con su silbato que se ejecute el tiro libre.
+b) Ordena con su silbato que se ejecute el tiro libre.
+c) Esperará un tiempo prudencial y ordena con su silbato que se ejecute el tiro libre.
+d) Espera una señal del guardameta para con su silbato ordenar la ejecución del tiro libre.
+3.- En un tiro libre indirecto dentro del área de penalti, ¿Cuándo debe bajar el brazo el árbitro?
+a) Cuando el balón sale del área de penalti.
+b) Cuando el balón esté en juego.
+c) Cuando el balón es tocado o jugado por otro jugador.
+d) Cuando es tocado por otro jugador o deja de estar en juego.
+4.- ¿Es válido un gol si al efectuarse un tiro libre indirecto desde fuera del área de penalti hacia la
+meta contraria el balón rebota en otro jugador y entra en la misma?
+a) Sí, si el tiro ha sido correctamente ejecutado.
+b) Sí, si el tiro ha sido correctamente ejecutado y el equipo anotador no ha cometido falta o
+infracción de las Reglas de Juego.
+c) Sí, siempre y cuando sea tocado por un jugador adversario.
+d) Sí, si el tiro ha sido correctamente ejecutado y el anotador no ha cometido falta o infracción
+de las Reglas de Juego.
+5.-. ¿Debe el árbitro atender la petición de un defensor que en un tiro libre, le solicita la distancia
+reglamentaria desde el balón?
+a) No, pero el árbitro está obligado a que se respete la distancia de 9,15 metros.
+b) No, sólo el equipo que recibió la infracción puede solicitar la distancia de 9,15 metros.
+c) Sí, el equipo infractor también tiene derecho a solicitar la distancia reglamentaria.
+d) Ninguna es correcta.
+6.- En un tiro libre directo fuera del área de penalti, el balón tras golpear en el árbitro, entra en la
+meta sin que haya existido ninguna falta ni infracción de las Reglas de Juego. ¿Qué decisión toma el
+árbitro?
+a) Concede un saque de esquina.
+b) Concede gol.
+c) Concede gol u otorga un saque de esquina a favor del adversario.
+d) Concede gol, saque de esquina o hace repetir el tiro libre directo.
+7.- ¿Dónde debe ejecutarse un tiro libre concedido al equipo defensor dentro de su propia área de
+meta?
+a) En cualquier parte de dicha área de penalti.
+b) En la línea del área de meta, paralela a la línea de meta, en el punto más cercano al lugar
+donde ocurrió la infracción.
+c) Desde cualquier lugar de dicha área de meta.
+d) En la línea de meta, paralela a la línea de meta, en el punto más cercano a donde se
+encontraba el balón cuando el juego fue interrumpido.
+8.- Un árbitro sanciona con un tiro libre directo al equipo “A”. El equipo “B” lo ejecuta
+correctamente y el balón entra directamente en la meta. ¿Es válido el gol?
+a) No.
+b) Sí, a menos que el árbitro no hubiera tenido tiempo de levantar el brazo.
+c) Sí.
+d) Sí, si lo consigue en la meta del equipo A.
+9.- Un defensor ejecuta un tiro libre correctamente desde su área de penalti hacia su guardameta,
+que también se encuentra situado en dicha área, y éste lo coge con las manos. ¿Qué decisión toma el
+árbitro?
+a) Concede un tiro libre indirecto a favor del equipo adversario por cesión.
+b) Ordena la repetición del tiro libre y amonesta al defensor por retardar la reanudación del
+juego.
+c) Concede un tiro libre directo por tocar el balón con las manos de forma deliberada.
+d) Ordena la repetición del tiro libre.
+10.- En un tiro libre ejecutado por un defensor desde su área de meta, ¿A qué distancia deben
+colocarse los jugadores adversarios?
+a) Donde quieran.
+b) Al menos a 9,15 m. del balón.
+c) Fuera del área de penalti.
+d) Ninguna respuesta es correcta.
+11.- En un tiro libre ejecutado por un defensor desde su área de meta, ¿A qué distancia deben
+colocarse los jugadores?
+a) Al menos a 9,15 m. del balón.
+b) Fuera del área de penalti.
+c) Fuera de dicha área
+d) Depende.
+12.- ¿A qué distancia deben estar los jugadores adversarios al que va a ejecutar un tiro libre, si éste
+último solicita la distancia reglamentaria?
+a) Como mínimo a 9,15 m. del balón
+b) Como mínimo a 9,15 m. del balón hasta que esté en juego
+c) Como mínimo a 9,15 m. del balón y fuera del área de penalti si se ejecutase por parte del
+equipo defensor en el interior de ésta.
+d) Como mínimo a 9,15 m. del balón hasta que esté en juego y fuera del área de penalti si se
+ejecutase por parte del equipo defensor en el interior de ésta
+13.- Se concede un tiro libre indirecto fuera del área de penalti del equipo defensor. El árbitro no
+levanta el brazo y el balón es pateado directamente a gol. ¿Qué decisión toma el árbitro?
+a) Ordena repetir de nuevo el tiro libre indirecto.
+b) Concede el gol.
+c) Concede un saque de meta a favor del equipo defensor.
+d) Da un balón a tierra.
+14.- El juego se reanuda con tiro libre desde la línea de banda. El ejecutor patea el balón que sale
+directamente fuera del terreno de juego, por esa misma banda donde se produjo la infracción.
+Decisión:
+a) Concede un saque de banda al equipo adversario.
+b) Ordena la repetición del tiro libre.
+c) Ordena la repetición del tiro libre por considerar que el balón no estaba en juego.
+d) Ninguna respuesta es correcta.
+15.- En la Regla 13, “Tiros libres”, la referencia de “9,15 metros” hace alusión a…
+a) Procedimiento.
+b) Infracciones y sanciones.
+c) Ninguna de las anteriores.
+d) Las opciones A y B son correctas.
+16.- Un tiro libre es ejecutado de forma rápida por un jugador. Un adversario, situado a menos de
+9,15 metros del balón lo intercepta. ¿Qué decisión toma el árbitro?
+a) Amonesta al adversario por retardar la reanudación del juego y ordena la repetición del tiro
+libre.
+b) Deja que el juego continúe.
+c) Amonesta al adversario por no respetar la distancia reglamentaria en un tiro libre y ordena la
+repetición del tiro libre.
+d) Deja que el juego continúe y en la siguiente interrupción, amonesta al adversario.
+17.- Un jugador ejecuta un tiro libre desde su propia área de penalti de forma rápida y antes de que
+sus adversarios hayan abandonado dicha área. ¿Qué decisión toma el árbitro?
+a) Interrumpe inmediatamente el juego y repite el tiro.
+b) Interrumpe el juego, amonesta al jugador por no respetar la distancia reglamentaria y
+concede un tiro libre indirecto.
+c) Deja que el juego continúe si el adversario no toca el balón antes de que salga del área de
+penalti y sea tocado por otro jugador.
+d) Interrumpe el juego, amonesta al jugador por retardar la reanudación del juego y concede un
+tiro libre indirecto.
+18.- Un jugador ejecuta rápidamente un tiro libre teniendo a un adversario a 5 metros. El balón
+golpea en el adversario. ¿Qué decisión toma el árbitro?
+a) Deja que el juego continúe.
+b) Amonesta al adversario y manda repetir el tiro libre.
+c) Manda repetir el tiro libre en todos los casos.
+d) Deja que el juego continúe y en la siguiente interrupción del juego, amonesta al adversario.
+19.- ¿En qué momento está el balón en juego en un tiro libre directo dentro del área ejecutado por el
+equipo defensor?
+a) Desde que el balón se mueve con claridad.
+b) Desde que el balón ha salido completamente del área de penalti, después de ser jugado.
+c) Desde que el balón sale del área de penalti, después de ser pateado por un defensor.
+d) Desde que el balón sale del área de penalti, dentro de los límites del terreno de juego y
+después de ser pateado por un jugador del equipo defensor.
+20.- Un jugador, tras efectuar un tiro libre directo correctamente, vuelve a jugar el balón, tras
+rebotar en el árbitro y antes de que lo hubiera tocado o jugado otro jugador. ¿Qué decisión toma el
+árbitro?
+a) Concede un tiro libre indirecto en contra del equipo del jugador que tocó dos veces seguidas
+el balón.
+b) Concede un tiro libre directo en contra del equipo del jugador que tocó dos veces seguidas el
+balón.
+c) Deja que el juego continúe, si se puede aplicar ventaja.
+d) Todas las respuestas anteriores pueden ser correctas.
+21.- Un tiro libre indirecto concedido a un equipo en su propia área de penalti es ejecutado
+rápidamente, el balón rebota en un adversario situado dentro de dicha área, y entra a gol en dicha
+meta. ¿Es válido el gol?
+a) No, el tiro libre indirecto debe repetirse.
+b) No, el árbitro debe conceder un saque de meta.
+c) Sí.
+d) Sí, siempre que el balón se mueva con claridad.
+22.- Un jugador desde fuera de su área de penalti, ejecuta un tiro libre correctamente hacia su meta.
+El guardameta no logra evitar que el balón entre en la portería a pesar de tocarlo. ¿Qué decisión
+toma el árbitro?
+a) Concede el gol.
+b) Ordena que se repita el tiro libre.
+c) Concede un saque de esquina.
+d) Sanciona a ese equipo con un tiro libre indirecto por cesión.
+23.- Se ejecuta un tiro libre, un adversario se sitúa delante del balón a menos de 9,15 m, llegando
+éste a impactarle después de haber sido puesto en juego. El árbitro...
+a) deja que el juego continúe.
+b) deja que el juego continúe porque el adversario no impide la ejecución del tiro libre.
+c) si no puede aplicar ventaja manda repetir el tiro libre y amonesta al jugador infractor por no
+respetar la distancia reglamentaria en un tiro libre.
+d) si no puede aplicar ventaja manda repetir el tiro libre y amonesta al jugador infractor por
+retardar la reanudar del juego.
+24.- Si un jugador lanza un tiro libre indirecto y el balón es jugado por otro jugador antes de entrar
+en la meta, ¿Debe concederse el gol?
+a) Sí, siempre.
+b) Sí, en algunas ocasiones.
+c) Sí, sólo si el balón está en juego y el ejecutor no cometió ninguna infracción.
+d) No.
+25.- Para un tiro libre ejecutado por el equipo defensor dentro de su área de penalti, ¿Cuál de las
+siguientes afirmaciones no es correcta?
+a) Todos los adversarios deberán encontrarse a 9,15 m del balón.
+b) El balón está en juego apenas haya sido pateado directamente fuera del área de penalti.
+c) Todos los adversarios deben permanecer fuera del área de penalti hasta que el balón esté en
+juego.
+d) Si el tiro libre se ha concedido dentro del área de meta podrá ser lanzado desde cualquier
+punto de dicha área.
+26.- Si al lanzar un libre directo el jugador lo ejecuta hacia la meta y el balón entra a gol. Decisión:
+a) Concede el gol.
+b) No concede al gol y ordena la repetición del tiro libre directo.
+c) Concede un saque de esquina a favor del equipo adversario o concede gol.
+d) Concede un saque de esquina a favor del equipo adversario, concede gol u ordena la
+repetición del tiro libre directo.
+27.- En un tiro libre indirecto, el balón rebota en el árbitro y entra en la meta del equipo contrario al
+que lo lanza. ¿Cómo se reanuda el juego?
+a) Con un saque de meta.
+b) Con la repetición del tiro libre indirecto.
+c) Saque de meta o repetición del tiro libre indirecto.
+d) Concede el gol.
+28.- Conforme al Procedimiento de la Regla 13, los tiros libres pueden ser reanudados…
+a) Donde se cometió la infracción, donde se encontraba el balón, en la línea de demarcación
+más cercana, en cualquier parte del área de meta, en la línea del área de meta paralela a la
+línea de meta en el punto más cercano y donde indiquen las Reglas 12 y 13
+b) Donde se cometió la infracción, donde se encontraba el balón, en la línea de demarcación
+más cercana, en cualquier parte del área de meta, en la línea del área de meta paralela a la
+línea de meta en el punto más cercano y donde indiquen las Reglas 3,11 y 12
+c) Donde se cometió la infracción, donde se encontraba el balón, en cualquier parte del área de
+meta, en la línea del área de meta paralela a la línea de meta en el punto más cercano y
+donde indiquen las Reglas 3,11 y 12
+d) Donde se cometió la infracción, donde se encontraba el balón, en cualquier parte del área de
+meta, en la línea del área de meta paralela a la línea de meta en el punto más cercano y
+donde indiquen las Reglas 12 y 13
+29.- Un jugador ejecuta rápidamente un tiro libre. Un adversario que está cerca a menos de 9,15
+metros, impide deliberadamente que saque rápido. ¿Qué decisión toma el árbitro?
+a) Deja que el juego continúe.
+b) Amonesta al adversario en la siguiente interrupción del juego por retrasar la reanudación del
+juego.
+c) Amonesta al adversario y manda repetir el tiro libre, salvo que pueda aplicar ventaja.
+d) Ninguna respuesta es correcta.
+30.- Indique la afirmación incorrecta
+a) Las fintas están permitidas en los tiros libres durante la carrera, pero no justo antes de patear
+el balón.
+b) Está permitida la ejecución de un tiro libre con uno o ambos pies simultáneamente.
+c) Patear intencionadamente el balón contra un adversario en un tiro libre de forma que no sea
+ni imprudente, ni temeraria ni con fuerza excesiva está permitido.
+d) Todas son incorrectas.
+31.- ¿Se puede ejecutar el lanzamiento de un tiro libre a una distancia de 6 m de donde se cometió
+la infracción?
+a) No, como mínimo a 5,5 m.
+b) No, nunca.
+c) Sí, en algunos casos.
+d) Sí, pero sólo si el hecho se ha producido en el área de meta.
+32.- Un guardameta ejecuta un tiro libre correctamente fuera de su área de penalti. Antes de que el
+balón haya sido tocado por otro jugador, vuelve a su poder y lo toca nuevamente con las manos
+fuera de su área de penalti. ¿Qué decisión toma el árbitro?
+a) Manda repetir el tiro.
+b) Concede un tiro libre directo o indirecto o aplica ventaja.
+c) Concede un tiro libre directo.
+d) Concede un tiro libre directo o deja que el juego continúe.
+33.- ¿A qué distancia mínima deben colocarse los adversarios en la ejecución de un tiro libre?
+a) A más de 9,15 metros del balón.
+b) A 9,15 metros del balón.
+c) Al menos a 9,15 metros del balón.
+d) Ninguna es completamente correcta.
+34.- Un equipo ejecuta un tiro libre correctamente en su propia área de penalti. El ejecutor lo patea
+y el balón rebota en un compañero situado en dicha área y entra en la meta. ¿Qué decisión toma el
+árbitro?
+a) Manda que se repita el tiro libre.
+b) No concede el gol y manda reanudar el juego con un saque de esquina.
+c) Concede el gol.
+d) Concede gol o saque de esquina.
+35.- Las salidas del terreno de juego, conforme al Procedimiento de la Regla 13, se reanudan…
+a) Donde estaba el balón.
+b) En la línea de demarcación más cercana
+c) Donde estaba el balón o en la línea de demarcación más cercana.
+d) Donde se cometa la infracción.
+36.- Un jugador desea ejecutar un tiro libre rápidamente cuando un adversario se encuentra a sólo a
+4,5 m del balón. ¿Qué decisión toma el árbitro?
+a) Deja que el tiro libre se ejecute rápidamente.
+b) Deja que el tiro libre se ejecute rápidamente y amonesta al adversario cuando el balón esté
+fuera de juego.
+c) No permite que el tiro libre se ejecute porque los adversarios no están a la distancia
+reglamentaria de 9,15 m.
+d) Amonesta al adversario y no permite que el tiro libre se ejecute porque no está a los 9,15
+metros reglamentarios.
+37.- En un tiro libre ejecutado de forma correcta y rápidamente, un jugador adversario, no el
+guardameta, que está situado a 6 m toca el balón con la mano de forma deliberada. El árbitro...
+a) amonesta al jugador defensor y sanciona a su equipo con un nuevo tiro libre o penalti.
+b) ordena la repetición del tiro libre.
+c) amonesta al jugador defensor por conducta antideportiva si considera que impide un ataque
+prometedor o lo expulsa si malogró una oportunidad manifiesta de gol y sanciona a su
+equipo con un tiro libre directo o un penalti si la mano se cometió en el área de penalti del
+adversario.
+d) expulsa al jugador defensor por doble amonestación, una por no guardar la distancia y otra
+por conducta antideportiva, y sanciona a su equipo con un tiro libre o un tiro penal.
+38.- ¿Está permitido ejecutar un tiro libre hacia atrás?
+a) Sí, salvo si es dentro del área de meta.
+b) Sí, y está en juego cuando es pateado y se mueve.
+c) Sí, siempre, y está en juego cuando es pateado y se mueve.
+d) Ninguna es correcta.
+39.- Un jugador fuera de su área de penalti ejecuta un tiro libre directo correctamente hacia su
+propia meta. El balón entra en la misma sin ser tocado por ningún otro jugador. ¿Qué decisión toma
+el árbitro?
+a) Concede el gol.
+b) Concede un saque de esquina.
+c) Ordena que el tiro libre directo sea repetido o concede un saque de esquina.
+d) Ninguna respuesta es correcta.
+40.- Un jugador que no es el guardameta ejecuta correctamente un tiro libre fuera de su área de
+penalti. El ejecutor toca por segunda vez el balón, pero no con las manos, antes de que éste haya
+tocado a otro jugador. ¿Qué decisión toma el árbitro?
+a) Ordena la repetición del tiro libre.
+b) Concede un tiro libre indirecto al equipo contrario.
+c) Aplica ventaja o concede un tiro libre indirecto al equipo contrario, que se ejecuta desde el
+lugar donde se cometió la infracción.
+d) Ninguna respuesta es correcta.
+41.- ¿Cuándo debe bajar el árbitro la mano tras señalar un tiro libre indirecto?
+a) Cuando el balón sale del terreno de juego.
+b) Cuando se comete una infracción.
+c) Cuando el balón es tocado por otro jugador.
+d) Todas las respuestas anteriores pueden ser correctas.
+42.- En un tiro libre fuera del área de penalti, el balón estará en juego…
+a) Cuando es pateado y se mueve
+b) Cuando es claramente pateado y se mueve
+c) Cuando es pateado y se mueve con claridad.
+d) Cuando es jugado y se mueve con claridad
+43.- ¿Puede ejecutarse un tiro libre elevando el balón con un pie o con los dos pies
+simultáneamente?
+a) No, el árbitro amonestará al jugador por retardar la reanudación del juego.
+b) Sí. El balón estará en juego cuando es pateado con uno o con los dos pies y se pone en
+movimiento con claridad.
+c) No. El balón estará en juego cuando es pateado con un único pie.
+d) No, el árbitro amonestará al jugador por conducta antideportiva.
+44.- Cuando se ejecuta un tiro libre, ¿puede el ejecutor utilizar fintas para confundir a los
+adversarios?
+a) No. El árbitro amonesta al jugador por retardar la reanudación del juego y ordena la
+repetición del tiro libre.
+b) No. El árbitro amonesta al jugador por conducta antideportiva y ordena la repetición del tiro
+libre.
+c) Sí, está permitido y forma parte del fútbol.
+d) Sí, salvo que lo haga justo antes de patear el balón.
+45.- Un jugador ejecuta un tiro libre correctamente de forma rápida y el balón entra en la meta. El
+árbitro no ha tenido la oportunidad de indicar que el tiro libre era indirecto. ¿Qué decisión toma el
+árbitro?
+a) Concede el gol.
+b) Concede un saque de meta a favor del equipo defensor.
+c) Ordena que el tiro libre indirecto sea nuevamente ejecutado desde el lugar original, ya que
+no le dio tiempo a indicarlo.
+d) Da un balón a tierra.
+46.- Según el Procedimiento de la Regla 13, ¿cuál de las siguientes no es una excepción a la norma
+general de reanudación del juego?
+a) Donde se encontraba el balón.
+b) En la línea de demarcación más cercana.
+c) En cualquier parte del área de meta.
+d) Donde se comete la infracción.
+47.- Un jugador ejecuta correctamente un tiro libre desde su propia área de meta, el balón abandona
+la misma y un atacante ubicado en el interior del área de penalti lo recupera y marca un gol. ¿Qué
+decisión toma el árbitro?
+a) Deja que el juego continúe y, en la siguiente interrupción, amonesta al atacante.
+b) Interrumpe el juego, amonesta al atacante y ordena la repetición del tiro libre, ya que el
+balón no estaba en juego, salvo que pueda aplicar ventaja.
+c) Interrumpe el juego y ordena la repetición del tiro libre, ya que el balón no estaba en juego.
+d) Concede el gol.
+48.- Indique cuál de las siguientes afirmaciones es incorrecta
+a) En un tiro libre un adversario, habiendo sido solicitada la distancia reglamentaria, puede
+encontrarse a 6 metros.
+b) No siempre que el balón se mueva con claridad estará en juego.
+c) Otros casos de lugares de reanudación que contempla la Regla 13 en su procedimiento son
+las indicadas en las Reglas 3,8 y 12
+d) Puede ser que un jugador toque el balón por segunda vez con las manos de forma deliberada
+y el juego se reanude con tiro libre indirecto
+49.- El título de la Regla 13 es:
+a) El penalti.
+b) El tiro penal.
+c) Tipos de tiros libres.
+d) Ninguna es correcta.
+
+>>>>>>> master
 FIN

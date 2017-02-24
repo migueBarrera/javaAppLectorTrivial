@@ -1,0 +1,37 @@
+1 A Infracciones y sanciones. Modificación 2016-2017.
+2 D Equipamiento obligatorio.
+3 B Seguridad.
+4 C Infracciones y sanciones.
+5 C Equipamiento obligatorio.
+6 B Equipamiento obligatorio. Modificación 2016-2017.
+7 D
+8 D Colores. Modificación 2016-2017.
+9 B Otro equipamiento.
+10 A Seguridad.
+11 C Otro equipamiento. Modificación 2016-2017.
+12 D Equipamiento obligatorio. Modificación 2016-2017.
+13 B Colores.
+14 A Equipamiento obligatorio.
+15 B
+16 A Equipamiento obligatorio. Modificación 2016-2017.
+17 C Equipamiento obligatorio.
+18 D Otro equipamiento.
+19 A Infracciones y sanciones.
+20 D Colores. Modificación 2016-2017.
+21 D Colores. Modificación 2016-2017.
+22 A Seguridad.
+23 C Seguridad.
+24 A
+25 D Seguridad.
+26 B
+27 D Equipamiento obligatorio. Modificación 2016-2017.
+28 D Equipamiento obligatorio.
+29 A Seguridad.
+30 B Colores.
+31 C Infracciones y sanciones. Modificación 2016-2017.
+32 C Infracciones y sanciones.
+33 C Equipamiento obligatorio.
+34 D Otro equipamiento.
+35 D Infracciones y sanciones.
+36 D Modificación 2016-2017.
+37 B

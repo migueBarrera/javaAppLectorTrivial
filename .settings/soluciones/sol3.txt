@@ -1,0 +1,75 @@
+1 D Procedimiento de sustitución.
+2 A Número de jugadores.
+3 C
+4 C Procedimiento de sustitución.
+5 B Número de sustituciones. Otros partidos.
+6 B Procedimiento de sustitución.
+7 B Jugadores y sustitutos expulsados.
+8 A Número de jugadores.
+9 A Personas no autorizadas en el terreno de juego.
+10 B Procedimiento de sustitución.
+11 C Cambio de guardameta. Infracciones y sanciones.
+12 A Número de sustituciones. Competiciones oficiales.
+13 A Procedimiento de sustitución.
+14 B Infracciones y sanciones para cualquier otra infracción.
+15 A Número de jugadores.
+16 B Jugador fuera de terreno de juego.
+17 C Cambio de guardameta.
+18 B Número de jugadores y número de sustituciones.
+19 C Regla 10. Tiros desde el punto de penalti.
+20 C
+21 C
+22 C Regla 5. Poderes y deberes. Lesiones
+23 C Procedimiento de sustitución.
+24 D Regla 14. Infracciones y sanciones.
+25 C Gol anotado con una persona no autorizada en el TJ.
+26 B Personas no autorizadas en el terreno de juego.
+27 C Jugadores y sustitutos expulsados.
+28 A Número de sustituciones. Competiciones oficiales.
+29 C Número de sustituciones. Competiciones oficiales.
+30 A Cambio de guardameta.
+31 A Personas no autorizadas en el terreno de juego.
+32 A Procedimiento de sustitución.
+33 B Personas no autorizadas en el terreno de juego.
+34 A
+35 A
+36 A Gol anotado con una persona no autorizada en el TJ.
+37 C Número de jugadores.
+38 A Infracciones y sanciones.
+39 B Regla 5. Poderes y deberes. Infracción más grave.
+40 B Procedimiento de sustitución.
+41 C Regla 10. Tiros desde el punto de penalti.
+42 A Procedimiento de sustitución.
+43 C Jugadores y sustitutos expulsados.
+44 C Gol anotado con una persona no autorizada en el TJ.
+45 C Capitán del equipo.
+46 D Regla 5. Poderes y deberes. Infracción más grave.
+47 D Personas no autorizadas en el terreno de juego.
+48 B
+49 D Gol anotado con una persona no autorizada en el TJ.
+50 D Personas no autorizadas en el terreno de juego.
+51 A Procedimiento de sustitución.
+52 D
+53 B Número de jugadores.
+54 A Procedimiento de sustitución.
+55 B Infracciones y sanciones.
+56 B Regla 5. Poderes y deberes. Lesiones.
+57 A Infracciones y sanciones.
+58 B Procedimiento de sustitución.
+59 B Regla 5. Poderes y deberes. Lesiones.
+60 B
+61 C Personas no autorizadas en el terreno de juego.
+62 A Procedimiento de sustitución.
+63 C
+64 D Regla 5. Poderes y deberes. Infracción más grave.
+65 B
+66 B
+67 A Jugador fuera de terreno de juego.
+68 B Regla 12. Tocar el balón con la mano.
+69 C Jugadores y sustitutos expulsados.
+70 C Jugadores y sustitutos expulsados. Infracciones de expulsión.
+71 A Jugador fuera del terreno de juego.
+72 A Procedimiento de sustitución.
+73 C Número de jugadores.
+74 C Número de jugadores. (7x2)
+75 C Gol anotado con una persona no autorizada en el TJ.

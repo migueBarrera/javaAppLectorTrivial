@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.- El balón está en juego en todo momento incluso cuando...
 a) ha traspasado completamente la línea de banda o de meta por el aire o por suelo.
 b) rebota en los postes, travesaño o banderines de esquina y se mantiene en el terreno de juego.
@@ -41,4 +42,49 @@ de un miembro arbitral situados dentro del terreno de juego y permanece dentro d
 límites de éste.
 d) Ninguna respuesta es correcta.
 
+=======
+1.- El balón está en juego en todo momento incluso cuando...
+a) ha traspasado completamente la línea de banda o de meta por el aire o por suelo.
+b) rebota en los postes, travesaño o banderines de esquina y se mantiene en el terreno de juego.
+c) rebota en un miembro del equipo arbitral situado fuera del terreno de juego de juego.
+d) Las respuestas B y C son correctas.
+2.- ¿En cuál de estas situaciones el balón está fuera de juego?
+a) Cuando ha traspasado completamente la línea de banda o meta por el suelo o por el aire.
+b) Cuando el balón toca en un árbitro asistente que está sobre la línea de banda.
+c) Cuando rebota de los postes, travesaño o banderines de esquina y permanece en el terreno de
+juego.
+d) Las respuestas A y B son correctas.
+3.- ¿Cuándo está el balón fuera de juego?
+a) Cuando el juego ha sido detenido por el árbitro.
+b) Cuando toca en la mano o brazo de un jugador, exceptuando al guardameta en su propia área
+de penalti.
+c) Cuando ha traspasado parcialmente la línea de meta, bien sea por aire o tierra.
+d) Cuando se encuentra más cerca de la línea de meta que el penúltimo defensor.
+4.- El balón pega en el banderín de esquina durante el juego. ¿Está el balón en juego?
+a) No.
+b) Sí, si no traspasa completamente la línea de banda o meta.
+c) Sí, siempre.
+d) Según la Regla 9, si el balón vuelve al terreno de juego sigue estando en juego.
+5.- Durante el partido, el balón toca en un árbitro asistente, y por ello no llega a salir en su totalidad
+por la línea de banda. ¿Qué decisión toma el árbitro?
+a) Da un balón a tierra.
+b) Deja que el juego continúe.
+c) Sanciona con un tiro libre indirecto al equipo cuyo jugador tocó el balón por última vez.
+d) Da saque de banda al equipo que no tocó el balón por última vez.
+6.- El balón traspasa en su totalidad la línea de meta por el exterior de los postes, bien por el suelo o
+bien por el aire, sin haberse cometido una infracción anterior. ¿Qué decisión toma el árbitro?
+a) Un saque de esquina o gol.
+b) Un saque de meta o de esquina.
+c) Un saque de esquina, de meta, gol, balón a tierra o saque de banda.
+d) Ninguna respuesta es completamente correcta.
+7.- El balón está en juego cuando...
+a) rebote en los postes, travesaño o poste de esquina, o rebote de un miembro arbitral.
+b) rebote en los postes, travesaño o poste de esquina, o rebote de un miembro arbitral ubicado
+en el interior del terreno de juego.
+c) rebote en los postes, travesaños, postes de esquina, postes del medio campo (si los hubiese),
+de un miembro arbitral situados dentro del terreno de juego y permanece dentro de los
+límites de éste.
+d) Ninguna respuesta es correcta.
+
+>>>>>>> master
 FIN

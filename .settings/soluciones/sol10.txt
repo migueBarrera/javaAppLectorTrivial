@@ -1,0 +1,43 @@
+1 A Gol marcado.
+2 A Regla 15. Introducción.
+3 D Equipo ganador.
+4 B Regla 11. Infracciones y sanciones.
+5 D Gol marcado. Falta o infracción. Equipo anotador.
+6 B El balón está en juego en todo momento.
+7 C Equipo ganador.
+8 B Equipo ganador.
+9 A Gol claro.
+10 D Regla 3. Personas no autorizadas en el terreno de juego.
+11 A Regla 13. Procedimiento.
+12 B Guardameta desde su propia área de penalti.
+13 A Equipo ganador.
+14 D Equipo ganador.
+15 C Gol marcado. Falta o infracción. Equipo anotador.
+16 C Regla 3. Personas no autorizadas en el TJ + Regla 12. Expulsión.
+17 B Gol marcado. El juego ya se ha reanudado.
+18 C Aplicación de la ventaja + Regla 12. Amonestación.
+19 C El árbitro es “aire”.
+20 D Regla 5. Decisiones del árbitro.
+21 C Regla 12. Conducta antideportiva.
+22 C El juego no se ha reanudado.
+23 C Regla 5. Poderes y deberes. Interferencia externa.
+24 C Regla 12. Celebración de un gol.
+25 D Regla 5. Poderes y deberes. Interferencia externa.
+26 D Depende de si el saque fue correctamente ejecutado o no.
+27 A Tiros desde el punto de penalti.
+28 B Tiros desde el punto de penalti.
+29 B Tiros desde el punto de penalti.
+30 B Tiros desde el punto de penalti.
+31 A Tiros desde el punto de penalti.
+32 C Tiros desde el punto de penalti.
+33 A Tiros desde el punto de penalti.
+34 B Tiros desde el punto de penalti. Modificación 2016-2017.
+35 D Tiros desde el punto de penalti.
+36 B Tiros desde el punto de penalti.
+37 D Tiros desde el punto de penalti. Modificación 2016-2017.
+38 A Tiros desde el punto de penalti.
+39 C Tiros desde el punto de penalti. Modificación 2016-2017.
+40 B Tiros desde el punto de penalti.
+41 D Tiros desde el punto de penalti.
+42 C Directrices M.E.A. Página 192.
+43 B Tiros desde el punto de penalti.
