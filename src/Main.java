@@ -13,11 +13,9 @@ import java.io.IOException;
 public class Main {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
+
 		System.out.println("INICIO DEL PROGRAMA");
-=======
-		
->>>>>>> master
+
 		//CAMBIAR ESTOS DATOS SEGUN LA REGLA
 				int numeroDeRegla = 1;
 		do{
@@ -66,11 +64,9 @@ public class Main {
 							linea = brRegla.readLine();
 							//Mientras siga siendo la pregunta
 							while (!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)") ) {
-<<<<<<< HEAD
+
 								lineapreparada = lineapreparada +" "+ linea;
-=======
-								lineapreparada = lineapreparada + linea;
->>>>>>> master
+
 								
 								linea = brRegla.readLine();
 							}
@@ -84,13 +80,7 @@ public class Main {
 							}
 							pregunta_id = manejadoraBD.insertarPregunta(pregunta);
 							//System.out.println("PREGUNTA ------------------->");
-<<<<<<< HEAD
-							
-							
-=======
-							
-							
->>>>>>> master
+
 							contadorRespuesta = 0;
 							//Mientras tenga a) o b) o c) o d) sera una nueva respuesta
 							while(linea.contains("a)") || linea.contains("b)")|| linea.contains("c)") || linea.contains("d)") ){
@@ -99,11 +89,8 @@ public class Main {
 								linea = brRegla.readLine();
 								//Mientras siga siendo la respuesta
 								while ((!linea.contains("a)") && !linea.contains("b)") && !linea.contains("c)") && !linea.contains("d)")) && !linea.contains("FIN") && !linea.contains(".-") ) {
-<<<<<<< HEAD
+
 									lineapreparada = lineapreparada +" "+ linea;
-=======
-									lineapreparada = lineapreparada + linea;
->>>>>>> master
 									
 									linea = brRegla.readLine();
 								}
@@ -135,11 +122,8 @@ public class Main {
 			
 			numeroDeRegla++;
 		}while(numeroDeRegla<=15);
-<<<<<<< HEAD
 		
 		System.out.println("FIN DEL PROGRAMA");
-=======
->>>>>>> master
 		
 	}
 	
