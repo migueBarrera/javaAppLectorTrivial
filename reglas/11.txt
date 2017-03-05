@@ -1,590 +1,589 @@
-<<<<<<< HEAD
-1.- En posición de fuera de juego, ¿Qué partes del cuerpo se incluyen y qué partes no cuentan? 
+1.- En posiciÃ³n de fuera de juego, Â¿QuÃ© partes del cuerpo se incluyen y quÃ© partes no cuentan? 
 a) La cabeza, cuerpo o pies se incluyen y las manos no.
 b) El cuerpo o pies se incluyen y las manos o brazos no.
 c) La cabeza, cuerpo o pies se incluyen y las manos y brazos no (excepto los guardametas).
 d) La cabeza, cuerpo o pies se incluyen y las manos y brazos no.
-2.- Un jugador en posición de fuera de juego, pero que no interfiere en un adversario corre hacia el
-balón enviado por un compañero. ¿Debe esperar el árbitro a que toque el balón para sancionar el
+2.- Un jugador en posiciÃ³n de fuera de juego, pero que no interfiere en un adversario corre hacia el
+balÃ³n enviado por un compaÃ±ero. Â¿Debe esperar el Ã¡rbitro a que toque el balÃ³n para sancionar el
 fuera de juego?
 a) Queda a su criterio del asistente.
 b) No, debe interrumpir el juego inmediatamente.
-c) Sí, esperará para ver si el jugador en posición de fuera de juego interfiere en el juego
-tocando el balón.
-d) Sí, esperará para ver si el jugador en posición de fuera de juego interfiere en el juego
-tocando el balón, a menos que ningún otro compañero en posición legal tenga posibilidad de
-jugar el balón.
-3.- ¿En cuál de los siguientes casos puede existir infracción de fuera de juego?
-a) Si recibe directamente el balón lanzado con las manos por su guardameta.
-b) Si recibe el balón de un saque de esquina.
-c) Si recibe el balón de un saque de banda.
+c) SÃ­, esperarÃ¡ para ver si el jugador en posiciÃ³n de fuera de juego interfiere en el juego
+tocando el balÃ³n.
+d) SÃ­, esperarÃ¡ para ver si el jugador en posiciÃ³n de fuera de juego interfiere en el juego
+tocando el balÃ³n, a menos que ningÃºn otro compaÃ±ero en posiciÃ³n legal tenga posibilidad de
+jugar el balÃ³n.
+3.- Â¿En cuÃ¡l de los siguientes casos puede existir infracciÃ³n de fuera de juego?
+a) Si recibe directamente el balÃ³n lanzado con las manos por su guardameta.
+b) Si recibe el balÃ³n de un saque de esquina.
+c) Si recibe el balÃ³n de un saque de banda.
 d) En ninguno de los casos anteriores.
-4.- Un jugador en posición de fuera de juego recibe el balón directamente de un saque de meta.
-¿Qué decisión toma el árbitro?
+4.- Un jugador en posiciÃ³n de fuera de juego recibe el balÃ³n directamente de un saque de meta.
+Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede un tiro libre indirecto contra el equipo del jugador infractor por intervenir en el
 juego.
 b) Concede un tiro libre indirecto contra el equipo del jugador infractor por interferir en el
 juego.
-c) Deja que el juego continúe.
+c) Deja que el juego continÃºe.
 d) Ninguna respuesta es correcta.
-5.- Participar de forma activa se refiere a…
+5.- Participar de forma activa se refiere aâ€¦
 a) Intervenir en el juego o interferir en un adversario.
-b) Interferir en un adversario o ganar ventaja de dicha posición.
-c) Intervenir en el juego o ganar ventaja de dicha posición.
-d) Intervenir en el juego, interferir en un adversario o ganar ventaja de dicha posición
-6.- ¿A qué equipo pertenece la línea media a propósito del fuera de juego?
+b) Interferir en un adversario o ganar ventaja de dicha posiciÃ³n.
+c) Intervenir en el juego o ganar ventaja de dicha posiciÃ³n.
+d) Intervenir en el juego, interferir en un adversario o ganar ventaja de dicha posiciÃ³n
+6.- Â¿A quÃ© equipo pertenece la lÃ­nea media a propÃ³sito del fuera de juego?
 a) Pertenece al equipo atacante.
 b) Pertenece al equipo defensor.
 c) A nadie, es neutral.
-d) Depende del equipo que lleve el balón.
-7.- Un jugador, que está en posición de fuera de juego recibe el balón de un compañero que
-interceptó un pase de un oponente. ¿Qué decisión toma el árbitro?
-a) Deja que el juego continúe.
+d) Depende del equipo que lleve el balÃ³n.
+7.- Un jugador, que estÃ¡ en posiciÃ³n de fuera de juego recibe el balÃ³n de un compaÃ±ero que
+interceptÃ³ un pase de un oponente. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Deja que el juego continÃºe.
 b) Concede un tiro libre indirecto por fuera de juego
-c) Si el jugador no interviene en el juego, permite que el juego continúe.
-d) Deja que el juego continúe, porque el defensor no toca voluntariamente el balón
-8.- ¿Puede aplicarse la ventaja ante una situación de fuera de juego?
+c) Si el jugador no interviene en el juego, permite que el juego continÃºe.
+d) Deja que el juego continÃºe, porque el defensor no toca voluntariamente el balÃ³n
+8.- Â¿Puede aplicarse la ventaja ante una situaciÃ³n de fuera de juego?
 a) No.
-b) Sí. La ventaja se puede aplicar pero siempre que no sea dentro del área de penalti.
-c) Sí, se puede aplicar la ventaja siempre que el equipo defensor tenga el pleno control del
-balón y exista una posición ventajosa.
-d) Sí, siempre.
-9.- ¿Puede existir infracción de fuera de juego a la hora de reanudar el juego mediante un balón a
+b) SÃ­. La ventaja se puede aplicar pero siempre que no sea dentro del Ã¡rea de penalti.
+c) SÃ­, se puede aplicar la ventaja siempre que el equipo defensor tenga el pleno control del
+balÃ³n y exista una posiciÃ³n ventajosa.
+d) SÃ­, siempre.
+9.- Â¿Puede existir infracciÃ³n de fuera de juego a la hora de reanudar el juego mediante un balÃ³n a
 tierra?
-a) No, porque el balón viene del árbitro.
-b) Sí, siempre que el atacante esté en posición de fuera de juego.
-c) No, porque el atacante no puede estar en posición de fuera de juego.
-d) Sí, siempre que el atacante esté en posición de fuera de juego e intervenga en el juego,
-interfiera en un adversario o gane ventaja de dicha posición.
-10.- La Regla 11: “El fuera de juego”, indica que no existirá posición de fuera de juego si el jugador
-recibe el balón directamente de...
+a) No, porque el balÃ³n viene del Ã¡rbitro.
+b) SÃ­, siempre que el atacante estÃ© en posiciÃ³n de fuera de juego.
+c) No, porque el atacante no puede estar en posiciÃ³n de fuera de juego.
+d) SÃ­, siempre que el atacante estÃ© en posiciÃ³n de fuera de juego e intervenga en el juego,
+interfiera en un adversario o gane ventaja de dicha posiciÃ³n.
+10.- La Regla 11: â€œEl fuera de juegoâ€, indica que no existirÃ¡ posiciÃ³n de fuera de juego si el jugador
+recibe el balÃ³n directamente de...
 a) un saque de banda, meta o esquina.
 b) un saque de esquina o meta.
 c) un saque de banda o esquina.
 d) Todas las respuestas son incorrectas.
-11.- No existirá infracción de fuera de juego si el jugador recibe el balón directamente de...
+11.- No existirÃ¡ infracciÃ³n de fuera de juego si el jugador recibe el balÃ³n directamente de...
 a) un saque de banda, meta o esquina.
 b) un saque de esquina o meta.
 c) un saque de banda o esquina.
 d) Todas las respuestas son incorrectas.
-12.- Un jugador no estará en posición de fuera de juego si:
-a) está a la misma altura que el penúltimo adversario o que los dos últimos adversarios.
-b) está a la misma altura que los dos últimos adversarios.
-c) está a la misma altura que el penúltimo adversario.
+12.- Un jugador no estarÃ¡ en posiciÃ³n de fuera de juego si:
+a) estÃ¡ a la misma altura que el penÃºltimo adversario o que los dos Ãºltimos adversarios.
+b) estÃ¡ a la misma altura que los dos Ãºltimos adversarios.
+c) estÃ¡ a la misma altura que el penÃºltimo adversario.
 d) Ninguna es correcta.
-13.- Hay infracción de fuera de juego si un jugador en posición de fuera de juego recibe el balón
+13.- Hay infracciÃ³n de fuera de juego si un jugador en posiciÃ³n de fuera de juego recibe el balÃ³n
 directamente de:
 a) un saque de meta, banda o esquina.
 b) un tiro libre.
 c) un saque de salida.
 d) un penalti.
-14.- Un defensor abandona el terreno de juego por su línea de meta para dejar a un adversario en
-posición de fuera de juego. ¿Qué decisión toma el árbitro?
-a) Permite que el juego continúe si el balón está en posesión del equipo adversario. Cuando el
-balón esté fuera de juego, amonesta al defensor por salir deliberadamente del terreno de
+14.- Un defensor abandona el terreno de juego por su lÃ­nea de meta para dejar a un adversario en
+posiciÃ³n de fuera de juego. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Permite que el juego continÃºe si el balÃ³n estÃ¡ en posesiÃ³n del equipo adversario. Cuando el
+balÃ³n estÃ© fuera de juego, amonesta al defensor por salir deliberadamente del terreno de
 juego sin su permiso.
 b) Sanciona el fuera de juego.
-c) Deja que el juego continúe.
-d) Permite que el juego continúe si el balón está en posesión del equipo adversario. Cuando el
-balón esté fuera de juego, amonesta al defensor por conducta antideportiva.
-15.- Se sanciona la infracción de fuera de juego de un jugador que corre hacia la portería adversaria.
-¿Desde dónde se lanza el tiro libre indirecto?
-a) Desde el lugar donde estaba el jugador en el momento en que el interfirió en el juego, en un
-adversario o ganó ventaja, excepto en su mitad de campo.
-b) Desde la posición en que se encontraba el jugador cuando su compañero le envió el balón,
+c) Deja que el juego continÃºe.
+d) Permite que el juego continÃºe si el balÃ³n estÃ¡ en posesiÃ³n del equipo adversario. Cuando el
+balÃ³n estÃ© fuera de juego, amonesta al defensor por conducta antideportiva.
+15.- Se sanciona la infracciÃ³n de fuera de juego de un jugador que corre hacia la porterÃ­a adversaria.
+Â¿Desde dÃ³nde se lanza el tiro libre indirecto?
+a) Desde el lugar donde estaba el jugador en el momento en que el interfiriÃ³ en el juego, en un
+adversario o ganÃ³ ventaja, excepto en su mitad de campo.
+b) Desde la posiciÃ³n en que se encontraba el jugador cuando su compaÃ±ero le enviÃ³ el balÃ³n,
 incluyendo su propia mitad de campo.
-c) Desde la posición en que se encontraba el jugador cuando el árbitro detuvo el juego,
+c) Desde la posiciÃ³n en que se encontraba el jugador cuando el Ã¡rbitro detuvo el juego,
 excluyendo su propia mitad de campo.
-d) Desde el lugar donde estaba el jugador en el momento en que el interfirió en el juego, en un
-adversario o ganó ventaja, incluyendo su propia mitad de campo.
-16.- Un jugador está en posición de fuera de juego e interfiere claramente el campo de visión del
-guardameta. Un compañero lanza a meta y consigue un gol. ¿Qué decisión toma el árbitro?
+d) Desde el lugar donde estaba el jugador en el momento en que el interfiriÃ³ en el juego, en un
+adversario o ganÃ³ ventaja, incluyendo su propia mitad de campo.
+16.- Un jugador estÃ¡ en posiciÃ³n de fuera de juego e interfiere claramente el campo de visiÃ³n del
+guardameta. Un compaÃ±ero lanza a meta y consigue un gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
-b) Concede el gol si el balón no toca en el jugador.
+b) Concede el gol si el balÃ³n no toca en el jugador.
 c) Anula el gol y manda reanudar el juego con un tiro libre indirecto.
-d) Concede el gol, ya que no puede sancionar a un jugador sólo por estar en posición de fuera
+d) Concede el gol, ya que no puede sancionar a un jugador sÃ³lo por estar en posiciÃ³n de fuera
 de juego.
-17.- No puede sancionarse infracción de fuera de juego si...
-a) un jugador recibe el balón directamente de un saque de meta, saque de banda o saque de
+17.- No puede sancionarse infracciÃ³n de fuera de juego si...
+a) un jugador recibe el balÃ³n directamente de un saque de meta, saque de banda o saque de
 esquina.
-b) un jugador se encuentra en su propia mitad de campo o está a la misma altura que el
-penúltimo adversario o está a la misma altura que los dos últimos adversarios en el momento
-en que el balón fue tocado o jugado por su compañero.
-c) si el balón fue jugado voluntariamente por última vez por un adversario, excepto en una
+b) un jugador se encuentra en su propia mitad de campo o estÃ¡ a la misma altura que el
+penÃºltimo adversario o estÃ¡ a la misma altura que los dos Ãºltimos adversarios en el momento
+en que el balÃ³n fue tocado o jugado por su compaÃ±ero.
+c) si el balÃ³n fue jugado voluntariamente por Ãºltima vez por un adversario, excepto en una
 salvada.
 d) Todas las respuestas anteriores pueden ser correctas.
-18.- No puede existir posición de fuera de juego en...
+18.- No puede existir posiciÃ³n de fuera de juego en...
 a) saques de banda, meta o esquina.
 b) saques iniciales y penaltis.
 c) saques de esquina, saques iniciales o penaltis.
 d) saques de meta, esquina o penaltis.
-19.- Un defensor y su compañero el guardameta chocan; el defensor se queda fuera del terreno de
-juego sin producirse una lesión grave. El árbitro...
-a) permite que el juego continúe y, hasta la siguiente interrupción, considera al defensor como
+19.- Un defensor y su compaÃ±ero el guardameta chocan; el defensor se queda fuera del terreno de
+juego sin producirse una lesiÃ³n grave. El Ã¡rbitro...
+a) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n, considera al defensor como
 ubicado fuera del terreno de juego en caso de sancionar el fuera de juego.
-b) permite que el juego continúe y, hasta la siguiente interrupción, considera al defensor sobre
-su línea de meta o banda en caso de sancionar el fuera de juego.
-c) permite que el juego continúe y considera al defensor sobre su línea de meta o banda en caso
-de sancionar el fuera de juego hasta que su equipo tenga una posesión clara del balón.
-d) permite que el juego continúe y, hasta la siguiente interrupción o hasta que el equipo
-defensor patee el balón fuera del área de penalti hacia la línea media, considera al defensor
-sobre su línea de meta o banda en caso de sancionar el fuera de juego.
-20.- ¿Se puede sancionar por estar en posición de fuera de juego a un jugador que se encuentra con
+b) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n, considera al defensor sobre
+su lÃ­nea de meta o banda en caso de sancionar el fuera de juego.
+c) permite que el juego continÃºe y considera al defensor sobre su lÃ­nea de meta o banda en caso
+de sancionar el fuera de juego hasta que su equipo tenga una posesiÃ³n clara del balÃ³n.
+d) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n o hasta que el equipo
+defensor patee el balÃ³n fuera del Ã¡rea de penalti hacia la lÃ­nea media, considera al defensor
+sobre su lÃ­nea de meta o banda en caso de sancionar el fuera de juego.
+20.- Â¿Se puede sancionar por estar en posiciÃ³n de fuera de juego a un jugador que se encuentra con
 medio cuerpo en cada mitad del terreno de juego?
-a) Sí, si interviene en el juego, interfiere en un adversario o gana ventaja de su posición.
+a) SÃ­, si interviene en el juego, interfiere en un adversario o gana ventaja de su posiciÃ³n.
 b) No.
-c) Sí, puesto que para considerar el fuera de juego tenemos en cuenta la cabeza o el cuerpo.
+c) SÃ­, puesto que para considerar el fuera de juego tenemos en cuenta la cabeza o el cuerpo.
 d) Ninguna respuesta es correcta.
-21.- Un jugador que está en posición de fuera de juego recibe el balón tras rebotar éste en un
-adversario y después de que un compañero lo patease ¿Qué decisión toma el árbitro?
-a) El árbitro deja que el juego continúe porque el balón viene de un adversario.
-b) El árbitro deja que el juego continúe si el jugador que recibe el balón no está interviniendo
+21.- Un jugador que estÃ¡ en posiciÃ³n de fuera de juego recibe el balÃ³n tras rebotar Ã©ste en un
+adversario y despuÃ©s de que un compaÃ±ero lo patease Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) El Ã¡rbitro deja que el juego continÃºe porque el balÃ³n viene de un adversario.
+b) El Ã¡rbitro deja que el juego continÃºe si el jugador que recibe el balÃ³n no estÃ¡ interviniendo
 en el juego.
-c) El árbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto.
-d) El árbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto, a
-menos que el balón viniera inicialmente de un saque de banda, de meta o de esquina.
-22.- ¿Cuándo se considera que un jugador que está en posición de fuera de juego se encuentra, a
-juicio del árbitro, implicado en el juego activo?
+c) El Ã¡rbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto.
+d) El Ã¡rbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto, a
+menos que el balÃ³n viniera inicialmente de un saque de banda, de meta o de esquina.
+22.- Â¿CuÃ¡ndo se considera que un jugador que estÃ¡ en posiciÃ³n de fuera de juego se encuentra, a
+juicio del Ã¡rbitro, implicado en el juego activo?
 a) Cuando intenta intervenir en el adversario.
 b) Cuando interviene en el juego.
-c) Cuando está tratando de sacar ventaja de dicha posición.
+c) Cuando estÃ¡ tratando de sacar ventaja de dicha posiciÃ³n.
 d) Todas las respuestas son correctas.
-23.- ¿Cuáles de estos requisitos han de darse para que un árbitro sancione a un jugador que esté en
-posición de fuera de juego?
-a) Que corra él solo hacia el balón.
-b) Que toque el balón.
-c) Que esté claramente en la línea de visión de un defensor.
+23.- Â¿CuÃ¡les de estos requisitos han de darse para que un Ã¡rbitro sancione a un jugador que estÃ© en
+posiciÃ³n de fuera de juego?
+a) Que corra Ã©l solo hacia el balÃ³n.
+b) Que toque el balÃ³n.
+c) Que estÃ© claramente en la lÃ­nea de visiÃ³n de un defensor.
 d) Todas las respuestas son correctas.
-24.- Un jugador en posición de fuera de juego sale del terreno de juego para mostrar al árbitro que
-no participa en el juego activo. ¿Qué decisión toma el árbitro?
+24.- Un jugador en posiciÃ³n de fuera de juego sale del terreno de juego para mostrar al Ã¡rbitro que
+no participa en el juego activo. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Lo amonesta por abandonar deliberadamente el terreno de juego sin su permiso.
 b) Lo sanciona por fuera de juego.
 c) Lo amonesta por conducta antideportiva.
-d) Deja que el juego continúe.
-25.- ¿Cuál es la sanción para un jugador que está en posición de fuera de juego?
-a) Un tiro libre indirecto donde se produjo la infracción.
-b) Un tiro libre indirecto donde estaba el infractor cuando sonó el silbato.
-c) Un tiro libre indirecto donde se encontraba el balón.
-d) Ninguna sanción.
-26.- ¿Es posible ser sancionado con fuera de juego si un jugador recibe el balón de un compañero
-que se lo ha pasado hacia atrás?
+d) Deja que el juego continÃºe.
+25.- Â¿CuÃ¡l es la sanciÃ³n para un jugador que estÃ¡ en posiciÃ³n de fuera de juego?
+a) Un tiro libre indirecto donde se produjo la infracciÃ³n.
+b) Un tiro libre indirecto donde estaba el infractor cuando sonÃ³ el silbato.
+c) Un tiro libre indirecto donde se encontraba el balÃ³n.
+d) Ninguna sanciÃ³n.
+26.- Â¿Es posible ser sancionado con fuera de juego si un jugador recibe el balÃ³n de un compaÃ±ero
+que se lo ha pasado hacia atrÃ¡s?
 a) No.
-b) No, puesto que en los pases hacia atrás no existe el fuera de juego.
-c) Sí, si el jugador que intenta recibir el balón parte de una posición de fuera de juego.
-d) Sí, siempre.
-27. Se da un pase a un compañero en posición de fuera de juego. Tras recibir el balón, el jugador es
-objeto de falta por un defensor. ¿Qué decisión toma el árbitro?
-a) Sanciona el fuera de juego porque ocurrió antes; el defensor será sancionado
-disciplinariamente si la falta cometida así lo requiriese.
-b) Sanciona la falta porque se considera más grave. Sanciona disciplinariamente al defensor
-según corresponda.
-c) Sanciona el fuera de juego porque ocurrió antes de la falta.
+b) No, puesto que en los pases hacia atrÃ¡s no existe el fuera de juego.
+c) SÃ­, si el jugador que intenta recibir el balÃ³n parte de una posiciÃ³n de fuera de juego.
+d) SÃ­, siempre.
+27. Se da un pase a un compaÃ±ero en posiciÃ³n de fuera de juego. Tras recibir el balÃ³n, el jugador es
+objeto de falta por un defensor. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Sanciona el fuera de juego porque ocurriÃ³ antes; el defensor serÃ¡ sancionado
+disciplinariamente si la falta cometida asÃ­ lo requiriese.
+b) Sanciona la falta porque se considera mÃ¡s grave. Sanciona disciplinariamente al defensor
+segÃºn corresponda.
+c) Sanciona el fuera de juego porque ocurriÃ³ antes de la falta.
 d) Ninguna es correcta.
-28.- ¿Puede ser sancionado por fuera de juego un jugador que está caído en el suelo por lesión?
+28.- Â¿Puede ser sancionado por fuera de juego un jugador que estÃ¡ caÃ­do en el suelo por lesiÃ³n?
 a) No.
-b) Sí, siempre.
-c) Sí, si le toca el balón.
-d) Sí, toca el balón de forma voluntaria.
-29.- Un jugador se encuentra en su propia mitad del terreno de juego cuando recibe el balón de un
-compañero. ¿Puede ser sancionado por fuera de juego?
-a) Sí, si estaba en posición de fuera de juego cuando se produjo el pase y se reanuda en su
+b) SÃ­, siempre.
+c) SÃ­, si le toca el balÃ³n.
+d) SÃ­, toca el balÃ³n de forma voluntaria.
+29.- Un jugador se encuentra en su propia mitad del terreno de juego cuando recibe el balÃ³n de un
+compaÃ±ero. Â¿Puede ser sancionado por fuera de juego?
+a) SÃ­, si estaba en posiciÃ³n de fuera de juego cuando se produjo el pase y se reanuda en su
 propia mitad de campo.
-b) Sí, si estaba en posición de fuera de juego cuando se produjo el pase y se reanuda en el lugar
+b) SÃ­, si estaba en posiciÃ³n de fuera de juego cuando se produjo el pase y se reanuda en el lugar
 desde donde se encontraba inicialmente
 c) No, porque lo recibe en su propio campo.
 d) No, pues es una de las excepciones que marca la Regla 11.
-30.- El balón pateado por un atacante llega rebotado del árbitro a un compañero, que se encontraba
-en posición de fuera de juego, éste lo controla y consigue gol. ¿Qué decisión toma el árbitro?
+30.- El balÃ³n pateado por un atacante llega rebotado del Ã¡rbitro a un compaÃ±ero, que se encontraba
+en posiciÃ³n de fuera de juego, Ã©ste lo controla y consigue gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
 b) No concede el gol, y manda reanudar el juego con un tiro libre indirecto.
-c) Concede el gol siempre que su equipo no haya cometido previamente falta o infracción de
+c) Concede el gol siempre que su equipo no haya cometido previamente falta o infracciÃ³n de
 las Reglas de Juego.
-d) No concede el gol, y reanuda con un balón a tierra.
-31.- Si un atacante se encuentra a la misma altura que el guardameta, siendo éste el último jugador
-defensor, ¿Existe posición de fuera de juego?
+d) No concede el gol, y reanuda con un balÃ³n a tierra.
+31.- Si un atacante se encuentra a la misma altura que el guardameta, siendo Ã©ste el Ãºltimo jugador
+defensor, Â¿Existe posiciÃ³n de fuera de juego?
 a) No.
-b) Sí.
-c) No, ya que tiene un adversario entre él y la línea de meta.
-d) Posición e infracción.
-32.- El concepto de “interfiriendo en un adversario” se asocia a...
-a) impedir que juegue el balón, obstruyendo el campo visual del adversario.
-b) disputarle el balón.
-c) intentar jugar un balón, y esta acción tenga un impacto en el adversario.
+b) SÃ­.
+c) No, ya que tiene un adversario entre Ã©l y la lÃ­nea de meta.
+d) PosiciÃ³n e infracciÃ³n.
+32.- El concepto de â€œinterfiriendo en un adversarioâ€ se asocia a...
+a) impedir que juegue el balÃ³n, obstruyendo el campo visual del adversario.
+b) disputarle el balÃ³n.
+c) intentar jugar un balÃ³n, y esta acciÃ³n tenga un impacto en el adversario.
 d) realizar una entrada que afecte claramente a la capacidad de movimiento del jugador.
-33.- Si el árbitro no ha sancionado la posición de fuera de juego de un jugador por considerar que
-no intervenía en el juego, ¿Es correcto que lo haga después si el balón ha tocado los postes de la
+33.- Si el Ã¡rbitro no ha sancionado la posiciÃ³n de fuera de juego de un jugador por considerar que
+no intervenÃ­a en el juego, Â¿Es correcto que lo haga despuÃ©s si el balÃ³n ha tocado los postes de la
 meta o al guardameta?
 a) No, nunca.
-b) Sí, siempre y cuando haya sacado ventaja de dicha posición.
+b) SÃ­, siempre y cuando haya sacado ventaja de dicha posiciÃ³n.
 c) No, siempre se considera una segunda jugada.
-d) Sí, salvo que el rebote sea una salvada.
-34.- Un jugador es zancadilleado, pero consigue pasar el balón a un compañero que está en posición
-de fuera de juego. ¿Debe aplicar el árbitro la ventaja?
-a) Sí.
-b) No, debe sancionar la infracción que se cometió con anterioridad al pase.
-c) Sí, aplica la ventaja y, una vez termine la jugada, amonesta al jugador infractor por conducta
+d) SÃ­, salvo que el rebote sea una salvada.
+34.- Un jugador es zancadilleado, pero consigue pasar el balÃ³n a un compaÃ±ero que estÃ¡ en posiciÃ³n
+de fuera de juego. Â¿Debe aplicar el Ã¡rbitro la ventaja?
+a) SÃ­.
+b) No, debe sancionar la infracciÃ³n que se cometiÃ³ con anterioridad al pase.
+c) SÃ­, aplica la ventaja y, una vez termine la jugada, amonesta al jugador infractor por conducta
 antideportiva.
-d) No, la ventaja no debe aplicarse en éste tipo de situaciones. El equipo infractor debe ser
+d) No, la ventaja no debe aplicarse en Ã©ste tipo de situaciones. El equipo infractor debe ser
 siempre sancionado con un tiro libre directo y se amonesta al jugador por conducta
 antideportiva.
-35.- El árbitro ve a un defensor salir del terreno de juego por una lesión constatable, lo que deja a un
-adversario en posición de fuera de juego. ¿Puede éste ser sancionado por fuera de juego si
+35.- El Ã¡rbitro ve a un defensor salir del terreno de juego por una lesiÃ³n constatable, lo que deja a un
+adversario en posiciÃ³n de fuera de juego. Â¿Puede Ã©ste ser sancionado por fuera de juego si
 interviniese en el juego?
-a) Sí.
-b) No. Para sancionar o no el fuera de juego, se considera que el defensor está situado sobre su
-línea de meta.
-c) No. Para sancionar o no el fuera de juego, se considera que el defensor está situado sobre su
-línea de meta o banda.
-d) No, y el defensor será amonestado por salir del terreno de juego sin permiso del árbitro
-36.- Un atacante se sitúa en el interior de la meta adversaria y al mismo tiempo, un compañero suyo
-anota un gol. ¿Qué medidas toma el árbitro?
-a) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por salir del terreno
-de juego sin su permiso y reanuda el juego con un balón a tierra desde el lugar donde estaba
-el balón cuando el juego fue detenido. También puede ser sancionado por fuera de juego o si
+a) SÃ­.
+b) No. Para sancionar o no el fuera de juego, se considera que el defensor estÃ¡ situado sobre su
+lÃ­nea de meta.
+c) No. Para sancionar o no el fuera de juego, se considera que el defensor estÃ¡ situado sobre su
+lÃ­nea de meta o banda.
+d) No, y el defensor serÃ¡ amonestado por salir del terreno de juego sin permiso del Ã¡rbitro
+36.- Un atacante se sitÃºa en el interior de la meta adversaria y al mismo tiempo, un compaÃ±ero suyo
+anota un gol. Â¿QuÃ© medidas toma el Ã¡rbitro?
+a) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por salir del terreno
+de juego sin su permiso y reanuda el juego con un balÃ³n a tierra desde el lugar donde estaba
+el balÃ³n cuando el juego fue detenido. TambiÃ©n puede ser sancionado por fuera de juego o si
 viola la Regla 12.
-b) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por salir del terreno
+b) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por salir del terreno
 de juego sin su permiso y lo manda reanudar con un tiro libre indirecto a favor del equipo
-adversario desde el lugar donde estaba el balón cuando el juego fue detenido. También
+adversario desde el lugar donde estaba el balÃ³n cuando el juego fue detenido. TambiÃ©n
 puede ser sancionado por fuera de juego o si viola la Regla 12.
-c) Anula el gol si la acción del jugador distrae al adversario y lo manda reanudar con un tiro
+c) Anula el gol si la acciÃ³n del jugador distrae al adversario y lo manda reanudar con un tiro
 libre indirecto a favor del equipo adversario y lo amonesta por conducta antideportiva.
-También puede ser sancionado por fuera de juego o si viola la Regla 12.
-d) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por conducta
-antideportiva y reanuda el juego con un balón a tierra desde el lugar donde estaba el balón
-cuando el juego fue detenido. También puede ser sancionado si viola la Regla 12.
-37.- ¿Puede un compañero del ejecutor de un penalti estar en posición de fuera de juego?
+TambiÃ©n puede ser sancionado por fuera de juego o si viola la Regla 12.
+d) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por conducta
+antideportiva y reanuda el juego con un balÃ³n a tierra desde el lugar donde estaba el balÃ³n
+cuando el juego fue detenido. TambiÃ©n puede ser sancionado si viola la Regla 12.
+37.- Â¿Puede un compaÃ±ero del ejecutor de un penalti estar en posiciÃ³n de fuera de juego?
 a) No.
-b) Sí.
+b) SÃ­.
 c) No. El jugador es amonestado por conducta antideportiva.
-d) Sí, siempre y cuando esté situado delante del balón.
-38.- Un atacante pasa el balón a un compañero en posición de fuera de juego. Antes de que el balón
-llegue a este jugador, un defensor lo toca con la mano. ¿Qué decisión toma el árbitro?
+d) SÃ­, siempre y cuando estÃ© situado delante del balÃ³n.
+38.- Un atacante pasa el balÃ³n a un compaÃ±ero en posiciÃ³n de fuera de juego. Antes de que el balÃ³n
+llegue a este jugador, un defensor lo toca con la mano. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Debe sancionar tiro libre indirecto por el fuera de juego.
 b) Puede sancionar tiro libre indirecto por el fuera de juego o tiro libre directo o penalti por
 mano.
 c) Debe sancionar tiro libre directo o penalti por mano.
 d) Puede sancionar tiro libre indirecto por fuera de juego, tiro libre directo o penalti por mano o
-dejar que el juego continúe.
-39.- Un jugador está en una posición de fuera de juego y su compañero no; ambos corren hacia el
-balón y el compañero que no está en fuera de juego juega el balón. ¿Qué decisión toma el árbitro?
-a) No toma ninguna decisión y deja que el juego continúe.
+dejar que el juego continÃºe.
+39.- Un jugador estÃ¡ en una posiciÃ³n de fuera de juego y su compaÃ±ero no; ambos corren hacia el
+balÃ³n y el compaÃ±ero que no estÃ¡ en fuera de juego juega el balÃ³n. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) No toma ninguna decisiÃ³n y deja que el juego continÃºe.
 b) Interrumpe el juego y lo manda reanudar con un tiro libre indirecto por fuera de juego del
 jugador.
-c) Deja que el juego continúe a menos que el jugador en posición de fuera de juego interfiera
+c) Deja que el juego continÃºe a menos que el jugador en posiciÃ³n de fuera de juego interfiera
 en un adversario.
-d) Interrumpe el juego y reanuda con tiro libre indirecto donde se jugó el balón.
-40.- Un jugador del equipo atacante en posición de fuera de juego, sale del terreno de juego…
-a) Si el jugador salió o permaneció fuera para no participar de forma activa en el juego, no
+d) Interrumpe el juego y reanuda con tiro libre indirecto donde se jugÃ³ el balÃ³n.
+40.- Un jugador del equipo atacante en posiciÃ³n de fuera de juego, sale del terreno de juegoâ€¦
+a) Si el jugador saliÃ³ o permaneciÃ³ fuera para no participar de forma activa en el juego, no
 debe ser sancionado.
-b) Si el jugador vuelve a entrar por la línea de meta y participa en la jugada antes de la
-siguiente parada de juego o antes de que el equipo defensor haya jugado el balón hacia la
-línea media y se encuentra fuera de su área de penalti, se considerará que está situado en la
-línea de meta a efectos del fuera de juego.
-c) Se amonestará a todo jugador que salga deliberadamente del terreno de juego y vuelva a
-entrar sin la autorización del árbitro y no es sancionado por fuera de juego, pero obtiene una
+b) Si el jugador vuelve a entrar por la lÃ­nea de meta y participa en la jugada antes de la
+siguiente parada de juego o antes de que el equipo defensor haya jugado el balÃ³n hacia la
+lÃ­nea media y se encuentra fuera de su Ã¡rea de penalti, se considerarÃ¡ que estÃ¡ situado en la
+lÃ­nea de meta a efectos del fuera de juego.
+c) Se amonestarÃ¡ a todo jugador que salga deliberadamente del terreno de juego y vuelva a
+entrar sin la autorizaciÃ³n del Ã¡rbitro y no es sancionado por fuera de juego, pero obtiene una
 ventaja por ello.
 d) Todas son correctas.
-41.- A efectos de determinar el fuera de juego, se considera que un jugador defensor…
-a) Si sale del terreno de juego sin la autorización del árbitro, está situado en la línea de meta.
-b) La situación del defensor es hasta la siguiente parada del juego o hasta que el equipo
-defensor haya jugado el balón hacia la línea media.
-c) Si el jugador abandonó deliberadamente el terreno de juego, debe ser amonestado en cuanto
-deje de estar en juego el balón.
+41.- A efectos de determinar el fuera de juego, se considera que un jugador defensorâ€¦
+a) Si sale del terreno de juego sin la autorizaciÃ³n del Ã¡rbitro, estÃ¡ situado en la lÃ­nea de meta.
+b) La situaciÃ³n del defensor es hasta la siguiente parada del juego o hasta que el equipo
+defensor haya jugado el balÃ³n hacia la lÃ­nea media.
+c) Si el jugador abandonÃ³ deliberadamente el terreno de juego, debe ser amonestado en cuanto
+deje de estar en juego el balÃ³n.
 d) Todas son correctas.
 
 =======
-1.- En posición de fuera de juego, ¿Qué partes del cuerpo se incluyen y qué partes no cuentan?
+1.- En posiciÃ³n de fuera de juego, Â¿QuÃ© partes del cuerpo se incluyen y quÃ© partes no cuentan?
 a) La cabeza, cuerpo o pies se incluyen y las manos no.
 b) El cuerpo o pies se incluyen y las manos o brazos no.
 c) La cabeza, cuerpo o pies se incluyen y las manos y brazos no (excepto los guardametas).
 d) La cabeza, cuerpo o pies se incluyen y las manos y brazos no.
-2.- Un jugador en posición de fuera de juego, pero que no interfiere en un adversario corre hacia el
-balón enviado por un compañero. ¿Debe esperar el árbitro a que toque el balón para sancionar el
+2.- Un jugador en posiciÃ³n de fuera de juego, pero que no interfiere en un adversario corre hacia el
+balÃ³n enviado por un compaÃ±ero. Â¿Debe esperar el Ã¡rbitro a que toque el balÃ³n para sancionar el
 fuera de juego?
 a) Queda a su criterio del asistente.
 b) No, debe interrumpir el juego inmediatamente.
-c) Sí, esperará para ver si el jugador en posición de fuera de juego interfiere en el juego
-tocando el balón.
-d) Sí, esperará para ver si el jugador en posición de fuera de juego interfiere en el juego
-tocando el balón, a menos que ningún otro compañero en posición legal tenga posibilidad de
-jugar el balón.
-3.- ¿En cuál de los siguientes casos puede existir infracción de fuera de juego?
-a) Si recibe directamente el balón lanzado con las manos por su guardameta.
-b) Si recibe el balón de un saque de esquina.
-c) Si recibe el balón de un saque de banda.
+c) SÃ­, esperarÃ¡ para ver si el jugador en posiciÃ³n de fuera de juego interfiere en el juego
+tocando el balÃ³n.
+d) SÃ­, esperarÃ¡ para ver si el jugador en posiciÃ³n de fuera de juego interfiere en el juego
+tocando el balÃ³n, a menos que ningÃºn otro compaÃ±ero en posiciÃ³n legal tenga posibilidad de
+jugar el balÃ³n.
+3.- Â¿En cuÃ¡l de los siguientes casos puede existir infracciÃ³n de fuera de juego?
+a) Si recibe directamente el balÃ³n lanzado con las manos por su guardameta.
+b) Si recibe el balÃ³n de un saque de esquina.
+c) Si recibe el balÃ³n de un saque de banda.
 d) En ninguno de los casos anteriores.
-4.- Un jugador en posición de fuera de juego recibe el balón directamente de un saque de meta.
-¿Qué decisión toma el árbitro?
+4.- Un jugador en posiciÃ³n de fuera de juego recibe el balÃ³n directamente de un saque de meta.
+Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede un tiro libre indirecto contra el equipo del jugador infractor por intervenir en el
 juego.
 b) Concede un tiro libre indirecto contra el equipo del jugador infractor por interferir en el
 juego.
-c) Deja que el juego continúe.
+c) Deja que el juego continÃºe.
 d) Ninguna respuesta es correcta.
-5.- Participar de forma activa se refiere a…
+5.- Participar de forma activa se refiere aâ€¦
 a) Intervenir en el juego o interferir en un adversario.
-b) Interferir en un adversario o ganar ventaja de dicha posición.
-c) Intervenir en el juego o ganar ventaja de dicha posición.
-d) Intervenir en el juego, interferir en un adversario o ganar ventaja de dicha posición
-6.- ¿A qué equipo pertenece la línea media a propósito del fuera de juego?
+b) Interferir en un adversario o ganar ventaja de dicha posiciÃ³n.
+c) Intervenir en el juego o ganar ventaja de dicha posiciÃ³n.
+d) Intervenir en el juego, interferir en un adversario o ganar ventaja de dicha posiciÃ³n
+6.- Â¿A quÃ© equipo pertenece la lÃ­nea media a propÃ³sito del fuera de juego?
 a) Pertenece al equipo atacante.
 b) Pertenece al equipo defensor.
 c) A nadie, es neutral.
-d) Depende del equipo que lleve el balón.
-7.- Un jugador, que está en posición de fuera de juego recibe el balón de un compañero que
-interceptó un pase de un oponente. ¿Qué decisión toma el árbitro?
-a) Deja que el juego continúe.
+d) Depende del equipo que lleve el balÃ³n.
+7.- Un jugador, que estÃ¡ en posiciÃ³n de fuera de juego recibe el balÃ³n de un compaÃ±ero que
+interceptÃ³ un pase de un oponente. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Deja que el juego continÃºe.
 b) Concede un tiro libre indirecto por fuera de juego
-c) Si el jugador no interviene en el juego, permite que el juego continúe.
-d) Deja que el juego continúe, porque el defensor no toca voluntariamente el balón
-8.- ¿Puede aplicarse la ventaja ante una situación de fuera de juego?
+c) Si el jugador no interviene en el juego, permite que el juego continÃºe.
+d) Deja que el juego continÃºe, porque el defensor no toca voluntariamente el balÃ³n
+8.- Â¿Puede aplicarse la ventaja ante una situaciÃ³n de fuera de juego?
 a) No.
-b) Sí. La ventaja se puede aplicar pero siempre que no sea dentro del área de penalti.
-c) Sí, se puede aplicar la ventaja siempre que el equipo defensor tenga el pleno control del
-balón y exista una posición ventajosa.
-d) Sí, siempre.
-9.- ¿Puede existir infracción de fuera de juego a la hora de reanudar el juego mediante un balón a
+b) SÃ­. La ventaja se puede aplicar pero siempre que no sea dentro del Ã¡rea de penalti.
+c) SÃ­, se puede aplicar la ventaja siempre que el equipo defensor tenga el pleno control del
+balÃ³n y exista una posiciÃ³n ventajosa.
+d) SÃ­, siempre.
+9.- Â¿Puede existir infracciÃ³n de fuera de juego a la hora de reanudar el juego mediante un balÃ³n a
 tierra?
-a) No, porque el balón viene del árbitro.
-b) Sí, siempre que el atacante esté en posición de fuera de juego.
-c) No, porque el atacante no puede estar en posición de fuera de juego.
-d) Sí, siempre que el atacante esté en posición de fuera de juego e intervenga en el juego,
-interfiera en un adversario o gane ventaja de dicha posición.
-10.- La Regla 11: “El fuera de juego”, indica que no existirá posición de fuera de juego si el jugador
-recibe el balón directamente de...
+a) No, porque el balÃ³n viene del Ã¡rbitro.
+b) SÃ­, siempre que el atacante estÃ© en posiciÃ³n de fuera de juego.
+c) No, porque el atacante no puede estar en posiciÃ³n de fuera de juego.
+d) SÃ­, siempre que el atacante estÃ© en posiciÃ³n de fuera de juego e intervenga en el juego,
+interfiera en un adversario o gane ventaja de dicha posiciÃ³n.
+10.- La Regla 11: â€œEl fuera de juegoâ€, indica que no existirÃ¡ posiciÃ³n de fuera de juego si el jugador
+recibe el balÃ³n directamente de...
 a) un saque de banda, meta o esquina.
 b) un saque de esquina o meta.
 c) un saque de banda o esquina.
 d) Todas las respuestas son incorrectas.
-11.- No existirá infracción de fuera de juego si el jugador recibe el balón directamente de...
+11.- No existirÃ¡ infracciÃ³n de fuera de juego si el jugador recibe el balÃ³n directamente de...
 a) un saque de banda, meta o esquina.
 b) un saque de esquina o meta.
 c) un saque de banda o esquina.
 d) Todas las respuestas son incorrectas.
-12.- Un jugador no estará en posición de fuera de juego si:
-a) está a la misma altura que el penúltimo adversario o que los dos últimos adversarios.
-b) está a la misma altura que los dos últimos adversarios.
-c) está a la misma altura que el penúltimo adversario.
+12.- Un jugador no estarÃ¡ en posiciÃ³n de fuera de juego si:
+a) estÃ¡ a la misma altura que el penÃºltimo adversario o que los dos Ãºltimos adversarios.
+b) estÃ¡ a la misma altura que los dos Ãºltimos adversarios.
+c) estÃ¡ a la misma altura que el penÃºltimo adversario.
 d) Ninguna es correcta.
-13.- Hay infracción de fuera de juego si un jugador en posición de fuera de juego recibe el balón
+13.- Hay infracciÃ³n de fuera de juego si un jugador en posiciÃ³n de fuera de juego recibe el balÃ³n
 directamente de:
 a) un saque de meta, banda o esquina.
 b) un tiro libre.
 c) un saque de salida.
 d) un penalti.
-14.- Un defensor abandona el terreno de juego por su línea de meta para dejar a un adversario en
-posición de fuera de juego. ¿Qué decisión toma el árbitro?
-a) Permite que el juego continúe si el balón está en posesión del equipo adversario. Cuando el
-balón esté fuera de juego, amonesta al defensor por salir deliberadamente del terreno de
+14.- Un defensor abandona el terreno de juego por su lÃ­nea de meta para dejar a un adversario en
+posiciÃ³n de fuera de juego. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Permite que el juego continÃºe si el balÃ³n estÃ¡ en posesiÃ³n del equipo adversario. Cuando el
+balÃ³n estÃ© fuera de juego, amonesta al defensor por salir deliberadamente del terreno de
 juego sin su permiso.
 b) Sanciona el fuera de juego.
-c) Deja que el juego continúe.
-d) Permite que el juego continúe si el balón está en posesión del equipo adversario. Cuando el
-balón esté fuera de juego, amonesta al defensor por conducta antideportiva.
-15.- Se sanciona la infracción de fuera de juego de un jugador que corre hacia la portería adversaria.
-¿Desde dónde se lanza el tiro libre indirecto?
-a) Desde el lugar donde estaba el jugador en el momento en que el interfirió en el juego, en un
-adversario o ganó ventaja, excepto en su mitad de campo.
-b) Desde la posición en que se encontraba el jugador cuando su compañero le envió el balón,
+c) Deja que el juego continÃºe.
+d) Permite que el juego continÃºe si el balÃ³n estÃ¡ en posesiÃ³n del equipo adversario. Cuando el
+balÃ³n estÃ© fuera de juego, amonesta al defensor por conducta antideportiva.
+15.- Se sanciona la infracciÃ³n de fuera de juego de un jugador que corre hacia la porterÃ­a adversaria.
+Â¿Desde dÃ³nde se lanza el tiro libre indirecto?
+a) Desde el lugar donde estaba el jugador en el momento en que el interfiriÃ³ en el juego, en un
+adversario o ganÃ³ ventaja, excepto en su mitad de campo.
+b) Desde la posiciÃ³n en que se encontraba el jugador cuando su compaÃ±ero le enviÃ³ el balÃ³n,
 incluyendo su propia mitad de campo.
-c) Desde la posición en que se encontraba el jugador cuando el árbitro detuvo el juego,
+c) Desde la posiciÃ³n en que se encontraba el jugador cuando el Ã¡rbitro detuvo el juego,
 excluyendo su propia mitad de campo.
-d) Desde el lugar donde estaba el jugador en el momento en que el interfirió en el juego, en un
-adversario o ganó ventaja, incluyendo su propia mitad de campo.
-16.- Un jugador está en posición de fuera de juego e interfiere claramente el campo de visión del
-guardameta. Un compañero lanza a meta y consigue un gol. ¿Qué decisión toma el árbitro?
+d) Desde el lugar donde estaba el jugador en el momento en que el interfiriÃ³ en el juego, en un
+adversario o ganÃ³ ventaja, incluyendo su propia mitad de campo.
+16.- Un jugador estÃ¡ en posiciÃ³n de fuera de juego e interfiere claramente el campo de visiÃ³n del
+guardameta. Un compaÃ±ero lanza a meta y consigue un gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
-b) Concede el gol si el balón no toca en el jugador.
+b) Concede el gol si el balÃ³n no toca en el jugador.
 c) Anula el gol y manda reanudar el juego con un tiro libre indirecto.
-d) Concede el gol, ya que no puede sancionar a un jugador sólo por estar en posición de fuera
+d) Concede el gol, ya que no puede sancionar a un jugador sÃ³lo por estar en posiciÃ³n de fuera
 de juego.
-17.- No puede sancionarse infracción de fuera de juego si...
-a) un jugador recibe el balón directamente de un saque de meta, saque de banda o saque de
+17.- No puede sancionarse infracciÃ³n de fuera de juego si...
+a) un jugador recibe el balÃ³n directamente de un saque de meta, saque de banda o saque de
 esquina.
-b) un jugador se encuentra en su propia mitad de campo o está a la misma altura que el
-penúltimo adversario o está a la misma altura que los dos últimos adversarios en el momento
-en que el balón fue tocado o jugado por su compañero.
-c) si el balón fue jugado voluntariamente por última vez por un adversario, excepto en una
+b) un jugador se encuentra en su propia mitad de campo o estÃ¡ a la misma altura que el
+penÃºltimo adversario o estÃ¡ a la misma altura que los dos Ãºltimos adversarios en el momento
+en que el balÃ³n fue tocado o jugado por su compaÃ±ero.
+c) si el balÃ³n fue jugado voluntariamente por Ãºltima vez por un adversario, excepto en una
 salvada.
 d) Todas las respuestas anteriores pueden ser correctas.
-18.- No puede existir posición de fuera de juego en...
+18.- No puede existir posiciÃ³n de fuera de juego en...
 a) saques de banda, meta o esquina.
 b) saques iniciales y penaltis.
 c) saques de esquina, saques iniciales o penaltis.
 d) saques de meta, esquina o penaltis.
-19.- Un defensor y su compañero el guardameta chocan; el defensor se queda fuera del terreno de
-juego sin producirse una lesión grave. El árbitro...
-a) permite que el juego continúe y, hasta la siguiente interrupción, considera al defensor como
+19.- Un defensor y su compaÃ±ero el guardameta chocan; el defensor se queda fuera del terreno de
+juego sin producirse una lesiÃ³n grave. El Ã¡rbitro...
+a) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n, considera al defensor como
 ubicado fuera del terreno de juego en caso de sancionar el fuera de juego.
-b) permite que el juego continúe y, hasta la siguiente interrupción, considera al defensor sobre
-su línea de meta o banda en caso de sancionar el fuera de juego.
-c) permite que el juego continúe y considera al defensor sobre su línea de meta o banda en caso
-de sancionar el fuera de juego hasta que su equipo tenga una posesión clara del balón.
-d) permite que el juego continúe y, hasta la siguiente interrupción o hasta que el equipo
-defensor patee el balón fuera del área de penalti hacia la línea media, considera al defensor
-sobre su línea de meta o banda en caso de sancionar el fuera de juego.
-20.- ¿Se puede sancionar por estar en posición de fuera de juego a un jugador que se encuentra con
+b) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n, considera al defensor sobre
+su lÃ­nea de meta o banda en caso de sancionar el fuera de juego.
+c) permite que el juego continÃºe y considera al defensor sobre su lÃ­nea de meta o banda en caso
+de sancionar el fuera de juego hasta que su equipo tenga una posesiÃ³n clara del balÃ³n.
+d) permite que el juego continÃºe y, hasta la siguiente interrupciÃ³n o hasta que el equipo
+defensor patee el balÃ³n fuera del Ã¡rea de penalti hacia la lÃ­nea media, considera al defensor
+sobre su lÃ­nea de meta o banda en caso de sancionar el fuera de juego.
+20.- Â¿Se puede sancionar por estar en posiciÃ³n de fuera de juego a un jugador que se encuentra con
 medio cuerpo en cada mitad del terreno de juego?
-a) Sí, si interviene en el juego, interfiere en un adversario o gana ventaja de su posición.
+a) SÃ­, si interviene en el juego, interfiere en un adversario o gana ventaja de su posiciÃ³n.
 b) No.
-c) Sí, puesto que para considerar el fuera de juego tenemos en cuenta la cabeza o el cuerpo.
+c) SÃ­, puesto que para considerar el fuera de juego tenemos en cuenta la cabeza o el cuerpo.
 d) Ninguna respuesta es correcta.
-21.- Un jugador que está en posición de fuera de juego recibe el balón tras rebotar éste en un
-adversario y después de que un compañero lo patease ¿Qué decisión toma el árbitro?
-a) El árbitro deja que el juego continúe porque el balón viene de un adversario.
-b) El árbitro deja que el juego continúe si el jugador que recibe el balón no está interviniendo
+21.- Un jugador que estÃ¡ en posiciÃ³n de fuera de juego recibe el balÃ³n tras rebotar Ã©ste en un
+adversario y despuÃ©s de que un compaÃ±ero lo patease Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) El Ã¡rbitro deja que el juego continÃºe porque el balÃ³n viene de un adversario.
+b) El Ã¡rbitro deja que el juego continÃºe si el jugador que recibe el balÃ³n no estÃ¡ interviniendo
 en el juego.
-c) El árbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto.
-d) El árbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto, a
-menos que el balón viniera inicialmente de un saque de banda, de meta o de esquina.
-22.- ¿Cuándo se considera que un jugador que está en posición de fuera de juego se encuentra, a
-juicio del árbitro, implicado en el juego activo?
+c) El Ã¡rbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto.
+d) El Ã¡rbitro sanciona el fuera de juego y manda reanudar el juego con un tiro libre indirecto, a
+menos que el balÃ³n viniera inicialmente de un saque de banda, de meta o de esquina.
+22.- Â¿CuÃ¡ndo se considera que un jugador que estÃ¡ en posiciÃ³n de fuera de juego se encuentra, a
+juicio del Ã¡rbitro, implicado en el juego activo?
 a) Cuando intenta intervenir en el adversario.
 b) Cuando interviene en el juego.
-c) Cuando está tratando de sacar ventaja de dicha posición.
+c) Cuando estÃ¡ tratando de sacar ventaja de dicha posiciÃ³n.
 d) Todas las respuestas son correctas.
-23.- ¿Cuáles de estos requisitos han de darse para que un árbitro sancione a un jugador que esté en
-posición de fuera de juego?
-a) Que corra él solo hacia el balón.
-b) Que toque el balón.
-c) Que esté claramente en la línea de visión de un defensor.
+23.- Â¿CuÃ¡les de estos requisitos han de darse para que un Ã¡rbitro sancione a un jugador que estÃ© en
+posiciÃ³n de fuera de juego?
+a) Que corra Ã©l solo hacia el balÃ³n.
+b) Que toque el balÃ³n.
+c) Que estÃ© claramente en la lÃ­nea de visiÃ³n de un defensor.
 d) Todas las respuestas son correctas.
-24.- Un jugador en posición de fuera de juego sale del terreno de juego para mostrar al árbitro que
-no participa en el juego activo. ¿Qué decisión toma el árbitro?
+24.- Un jugador en posiciÃ³n de fuera de juego sale del terreno de juego para mostrar al Ã¡rbitro que
+no participa en el juego activo. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Lo amonesta por abandonar deliberadamente el terreno de juego sin su permiso.
 b) Lo sanciona por fuera de juego.
 c) Lo amonesta por conducta antideportiva.
-d) Deja que el juego continúe.
-25.- ¿Cuál es la sanción para un jugador que está en posición de fuera de juego?
-a) Un tiro libre indirecto donde se produjo la infracción.
-b) Un tiro libre indirecto donde estaba el infractor cuando sonó el silbato.
-c) Un tiro libre indirecto donde se encontraba el balón.
-d) Ninguna sanción.
-26.- ¿Es posible ser sancionado con fuera de juego si un jugador recibe el balón de un compañero
-que se lo ha pasado hacia atrás?
+d) Deja que el juego continÃºe.
+25.- Â¿CuÃ¡l es la sanciÃ³n para un jugador que estÃ¡ en posiciÃ³n de fuera de juego?
+a) Un tiro libre indirecto donde se produjo la infracciÃ³n.
+b) Un tiro libre indirecto donde estaba el infractor cuando sonÃ³ el silbato.
+c) Un tiro libre indirecto donde se encontraba el balÃ³n.
+d) Ninguna sanciÃ³n.
+26.- Â¿Es posible ser sancionado con fuera de juego si un jugador recibe el balÃ³n de un compaÃ±ero
+que se lo ha pasado hacia atrÃ¡s?
 a) No.
-b) No, puesto que en los pases hacia atrás no existe el fuera de juego.
-c) Sí, si el jugador que intenta recibir el balón parte de una posición de fuera de juego.
-d) Sí, siempre.
-27. Se da un pase a un compañero en posición de fuera de juego. Tras recibir el balón, el jugador es
-objeto de falta por un defensor. ¿Qué decisión toma el árbitro?
-a) Sanciona el fuera de juego porque ocurrió antes; el defensor será sancionado
-disciplinariamente si la falta cometida así lo requiriese.
-b) Sanciona la falta porque se considera más grave. Sanciona disciplinariamente al defensor
-según corresponda.
-c) Sanciona el fuera de juego porque ocurrió antes de la falta.
+b) No, puesto que en los pases hacia atrÃ¡s no existe el fuera de juego.
+c) SÃ­, si el jugador que intenta recibir el balÃ³n parte de una posiciÃ³n de fuera de juego.
+d) SÃ­, siempre.
+27. Se da un pase a un compaÃ±ero en posiciÃ³n de fuera de juego. Tras recibir el balÃ³n, el jugador es
+objeto de falta por un defensor. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) Sanciona el fuera de juego porque ocurriÃ³ antes; el defensor serÃ¡ sancionado
+disciplinariamente si la falta cometida asÃ­ lo requiriese.
+b) Sanciona la falta porque se considera mÃ¡s grave. Sanciona disciplinariamente al defensor
+segÃºn corresponda.
+c) Sanciona el fuera de juego porque ocurriÃ³ antes de la falta.
 d) Ninguna es correcta.
-28.- ¿Puede ser sancionado por fuera de juego un jugador que está caído en el suelo por lesión?
+28.- Â¿Puede ser sancionado por fuera de juego un jugador que estÃ¡ caÃ­do en el suelo por lesiÃ³n?
 a) No.
-b) Sí, siempre.
-c) Sí, si le toca el balón.
-d) Sí, toca el balón de forma voluntaria.
-29.- Un jugador se encuentra en su propia mitad del terreno de juego cuando recibe el balón de un
-compañero. ¿Puede ser sancionado por fuera de juego?
-a) Sí, si estaba en posición de fuera de juego cuando se produjo el pase y se reanuda en su
+b) SÃ­, siempre.
+c) SÃ­, si le toca el balÃ³n.
+d) SÃ­, toca el balÃ³n de forma voluntaria.
+29.- Un jugador se encuentra en su propia mitad del terreno de juego cuando recibe el balÃ³n de un
+compaÃ±ero. Â¿Puede ser sancionado por fuera de juego?
+a) SÃ­, si estaba en posiciÃ³n de fuera de juego cuando se produjo el pase y se reanuda en su
 propia mitad de campo.
-b) Sí, si estaba en posición de fuera de juego cuando se produjo el pase y se reanuda en el lugar
+b) SÃ­, si estaba en posiciÃ³n de fuera de juego cuando se produjo el pase y se reanuda en el lugar
 desde donde se encontraba inicialmente
 c) No, porque lo recibe en su propio campo.
 d) No, pues es una de las excepciones que marca la Regla 11.
-30.- El balón pateado por un atacante llega rebotado del árbitro a un compañero, que se encontraba
-en posición de fuera de juego, éste lo controla y consigue gol. ¿Qué decisión toma el árbitro?
+30.- El balÃ³n pateado por un atacante llega rebotado del Ã¡rbitro a un compaÃ±ero, que se encontraba
+en posiciÃ³n de fuera de juego, Ã©ste lo controla y consigue gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
 b) No concede el gol, y manda reanudar el juego con un tiro libre indirecto.
-c) Concede el gol siempre que su equipo no haya cometido previamente falta o infracción de
+c) Concede el gol siempre que su equipo no haya cometido previamente falta o infracciÃ³n de
 las Reglas de Juego.
-d) No concede el gol, y reanuda con un balón a tierra.
-31.- Si un atacante se encuentra a la misma altura que el guardameta, siendo éste el último jugador
-defensor, ¿Existe posición de fuera de juego?
+d) No concede el gol, y reanuda con un balÃ³n a tierra.
+31.- Si un atacante se encuentra a la misma altura que el guardameta, siendo Ã©ste el Ãºltimo jugador
+defensor, Â¿Existe posiciÃ³n de fuera de juego?
 a) No.
-b) Sí.
-c) No, ya que tiene un adversario entre él y la línea de meta.
-d) Posición e infracción.
-32.- El concepto de “interfiriendo en un adversario” se asocia a...
-a) impedir que juegue el balón, obstruyendo el campo visual del adversario.
-b) disputarle el balón.
-c) intentar jugar un balón, y esta acción tenga un impacto en el adversario.
+b) SÃ­.
+c) No, ya que tiene un adversario entre Ã©l y la lÃ­nea de meta.
+d) PosiciÃ³n e infracciÃ³n.
+32.- El concepto de â€œinterfiriendo en un adversarioâ€ se asocia a...
+a) impedir que juegue el balÃ³n, obstruyendo el campo visual del adversario.
+b) disputarle el balÃ³n.
+c) intentar jugar un balÃ³n, y esta acciÃ³n tenga un impacto en el adversario.
 d) realizar una entrada que afecte claramente a la capacidad de movimiento del jugador.
-33.- Si el árbitro no ha sancionado la posición de fuera de juego de un jugador por considerar que
-no intervenía en el juego, ¿Es correcto que lo haga después si el balón ha tocado los postes de la
+33.- Si el Ã¡rbitro no ha sancionado la posiciÃ³n de fuera de juego de un jugador por considerar que
+no intervenÃ­a en el juego, Â¿Es correcto que lo haga despuÃ©s si el balÃ³n ha tocado los postes de la
 meta o al guardameta?
 a) No, nunca.
-b) Sí, siempre y cuando haya sacado ventaja de dicha posición.
+b) SÃ­, siempre y cuando haya sacado ventaja de dicha posiciÃ³n.
 c) No, siempre se considera una segunda jugada.
-d) Sí, salvo que el rebote sea una salvada.
-34.- Un jugador es zancadilleado, pero consigue pasar el balón a un compañero que está en posición
-de fuera de juego. ¿Debe aplicar el árbitro la ventaja?
-a) Sí.
-b) No, debe sancionar la infracción que se cometió con anterioridad al pase.
-c) Sí, aplica la ventaja y, una vez termine la jugada, amonesta al jugador infractor por conducta
+d) SÃ­, salvo que el rebote sea una salvada.
+34.- Un jugador es zancadilleado, pero consigue pasar el balÃ³n a un compaÃ±ero que estÃ¡ en posiciÃ³n
+de fuera de juego. Â¿Debe aplicar el Ã¡rbitro la ventaja?
+a) SÃ­.
+b) No, debe sancionar la infracciÃ³n que se cometiÃ³ con anterioridad al pase.
+c) SÃ­, aplica la ventaja y, una vez termine la jugada, amonesta al jugador infractor por conducta
 antideportiva.
-d) No, la ventaja no debe aplicarse en éste tipo de situaciones. El equipo infractor debe ser
+d) No, la ventaja no debe aplicarse en Ã©ste tipo de situaciones. El equipo infractor debe ser
 siempre sancionado con un tiro libre directo y se amonesta al jugador por conducta
 antideportiva.
-35.- El árbitro ve a un defensor salir del terreno de juego por una lesión constatable, lo que deja a un
-adversario en posición de fuera de juego. ¿Puede éste ser sancionado por fuera de juego si
+35.- El Ã¡rbitro ve a un defensor salir del terreno de juego por una lesiÃ³n constatable, lo que deja a un
+adversario en posiciÃ³n de fuera de juego. Â¿Puede Ã©ste ser sancionado por fuera de juego si
 interviniese en el juego?
-a) Sí.
-b) No. Para sancionar o no el fuera de juego, se considera que el defensor está situado sobre su
-línea de meta.
-c) No. Para sancionar o no el fuera de juego, se considera que el defensor está situado sobre su
-línea de meta o banda.
-d) No, y el defensor será amonestado por salir del terreno de juego sin permiso del árbitro
-36.- Un atacante se sitúa en el interior de la meta adversaria y al mismo tiempo, un compañero suyo
-anota un gol. ¿Qué medidas toma el árbitro?
-a) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por salir del terreno
-de juego sin su permiso y reanuda el juego con un balón a tierra desde el lugar donde estaba
-el balón cuando el juego fue detenido. También puede ser sancionado por fuera de juego o si
+a) SÃ­.
+b) No. Para sancionar o no el fuera de juego, se considera que el defensor estÃ¡ situado sobre su
+lÃ­nea de meta.
+c) No. Para sancionar o no el fuera de juego, se considera que el defensor estÃ¡ situado sobre su
+lÃ­nea de meta o banda.
+d) No, y el defensor serÃ¡ amonestado por salir del terreno de juego sin permiso del Ã¡rbitro
+36.- Un atacante se sitÃºa en el interior de la meta adversaria y al mismo tiempo, un compaÃ±ero suyo
+anota un gol. Â¿QuÃ© medidas toma el Ã¡rbitro?
+a) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por salir del terreno
+de juego sin su permiso y reanuda el juego con un balÃ³n a tierra desde el lugar donde estaba
+el balÃ³n cuando el juego fue detenido. TambiÃ©n puede ser sancionado por fuera de juego o si
 viola la Regla 12.
-b) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por salir del terreno
+b) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por salir del terreno
 de juego sin su permiso y lo manda reanudar con un tiro libre indirecto a favor del equipo
-adversario desde el lugar donde estaba el balón cuando el juego fue detenido. También
+adversario desde el lugar donde estaba el balÃ³n cuando el juego fue detenido. TambiÃ©n
 puede ser sancionado por fuera de juego o si viola la Regla 12.
-c) Anula el gol si la acción del jugador distrae al adversario y lo manda reanudar con un tiro
+c) Anula el gol si la acciÃ³n del jugador distrae al adversario y lo manda reanudar con un tiro
 libre indirecto a favor del equipo adversario y lo amonesta por conducta antideportiva.
-También puede ser sancionado por fuera de juego o si viola la Regla 12.
-d) Anula el gol si la acción del jugador distrae al adversario, lo amonesta por conducta
-antideportiva y reanuda el juego con un balón a tierra desde el lugar donde estaba el balón
-cuando el juego fue detenido. También puede ser sancionado si viola la Regla 12.
-37.- ¿Puede un compañero del ejecutor de un penalti estar en posición de fuera de juego?
+TambiÃ©n puede ser sancionado por fuera de juego o si viola la Regla 12.
+d) Anula el gol si la acciÃ³n del jugador distrae al adversario, lo amonesta por conducta
+antideportiva y reanuda el juego con un balÃ³n a tierra desde el lugar donde estaba el balÃ³n
+cuando el juego fue detenido. TambiÃ©n puede ser sancionado si viola la Regla 12.
+37.- Â¿Puede un compaÃ±ero del ejecutor de un penalti estar en posiciÃ³n de fuera de juego?
 a) No.
-b) Sí.
+b) SÃ­.
 c) No. El jugador es amonestado por conducta antideportiva.
-d) Sí, siempre y cuando esté situado delante del balón.
-38.- Un atacante pasa el balón a un compañero en posición de fuera de juego. Antes de que el balón
-llegue a este jugador, un defensor lo toca con la mano. ¿Qué decisión toma el árbitro?
+d) SÃ­, siempre y cuando estÃ© situado delante del balÃ³n.
+38.- Un atacante pasa el balÃ³n a un compaÃ±ero en posiciÃ³n de fuera de juego. Antes de que el balÃ³n
+llegue a este jugador, un defensor lo toca con la mano. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Debe sancionar tiro libre indirecto por el fuera de juego.
 b) Puede sancionar tiro libre indirecto por el fuera de juego o tiro libre directo o penalti por
 mano.
 c) Debe sancionar tiro libre directo o penalti por mano.
 d) Puede sancionar tiro libre indirecto por fuera de juego, tiro libre directo o penalti por mano o
-dejar que el juego continúe.
-39.- Un jugador está en una posición de fuera de juego y su compañero no; ambos corren hacia el
-balón y el compañero que no está en fuera de juego juega el balón. ¿Qué decisión toma el árbitro?
-a) No toma ninguna decisión y deja que el juego continúe.
+dejar que el juego continÃºe.
+39.- Un jugador estÃ¡ en una posiciÃ³n de fuera de juego y su compaÃ±ero no; ambos corren hacia el
+balÃ³n y el compaÃ±ero que no estÃ¡ en fuera de juego juega el balÃ³n. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
+a) No toma ninguna decisiÃ³n y deja que el juego continÃºe.
 b) Interrumpe el juego y lo manda reanudar con un tiro libre indirecto por fuera de juego del
 jugador.
-c) Deja que el juego continúe a menos que el jugador en posición de fuera de juego interfiera
+c) Deja que el juego continÃºe a menos que el jugador en posiciÃ³n de fuera de juego interfiera
 en un adversario.
-d) Interrumpe el juego y reanuda con tiro libre indirecto donde se jugó el balón.
-40.- Un jugador del equipo atacante en posición de fuera de juego, sale del terreno de juego…
-a) Si el jugador salió o permaneció fuera para no participar de forma activa en el juego, no
+d) Interrumpe el juego y reanuda con tiro libre indirecto donde se jugÃ³ el balÃ³n.
+40.- Un jugador del equipo atacante en posiciÃ³n de fuera de juego, sale del terreno de juegoâ€¦
+a) Si el jugador saliÃ³ o permaneciÃ³ fuera para no participar de forma activa en el juego, no
 debe ser sancionado.
-b) Si el jugador vuelve a entrar por la línea de meta y participa en la jugada antes de la
-siguiente parada de juego o antes de que el equipo defensor haya jugado el balón hacia la
-línea media y se encuentra fuera de su área de penalti, se considerará que está situado en la
-línea de meta a efectos del fuera de juego.
-c) Se amonestará a todo jugador que salga deliberadamente del terreno de juego y vuelva a
-entrar sin la autorización del árbitro y no es sancionado por fuera de juego, pero obtiene una
+b) Si el jugador vuelve a entrar por la lÃ­nea de meta y participa en la jugada antes de la
+siguiente parada de juego o antes de que el equipo defensor haya jugado el balÃ³n hacia la
+lÃ­nea media y se encuentra fuera de su Ã¡rea de penalti, se considerarÃ¡ que estÃ¡ situado en la
+lÃ­nea de meta a efectos del fuera de juego.
+c) Se amonestarÃ¡ a todo jugador que salga deliberadamente del terreno de juego y vuelva a
+entrar sin la autorizaciÃ³n del Ã¡rbitro y no es sancionado por fuera de juego, pero obtiene una
 ventaja por ello.
 d) Todas son correctas.
-41.- A efectos de determinar el fuera de juego, se considera que un jugador defensor…
-a) Si sale del terreno de juego sin la autorización del árbitro, está situado en la línea de meta.
-b) La situación del defensor es hasta la siguiente parada del juego o hasta que el equipo
-defensor haya jugado el balón hacia la línea media.
-c) Si el jugador abandonó deliberadamente el terreno de juego, debe ser amonestado en cuanto
-deje de estar en juego el balón.
+41.- A efectos de determinar el fuera de juego, se considera que un jugador defensorâ€¦
+a) Si sale del terreno de juego sin la autorizaciÃ³n del Ã¡rbitro, estÃ¡ situado en la lÃ­nea de meta.
+b) La situaciÃ³n del defensor es hasta la siguiente parada del juego o hasta que el equipo
+defensor haya jugado el balÃ³n hacia la lÃ­nea media.
+c) Si el jugador abandonÃ³ deliberadamente el terreno de juego, debe ser amonestado en cuanto
+deje de estar en juego el balÃ³n.
 d) Todas son correctas.
 
->>>>>>> master
+
 FIN
