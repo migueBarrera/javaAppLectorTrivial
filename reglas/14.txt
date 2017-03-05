@@ -1,402 +1,400 @@
-<<<<<<< HEAD
-1.- El árbitro ordena que se repita el lanzamiento de un penalti porque el guardameta se adelantó de
-su línea de meta. ¿Puede otro jugador lanzar este segundo penalti?
-a) Sí, pero si se identifica previamente. El guardameta será amonestado.
+1.- El Ã¡rbitro ordena que se repita el lanzamiento de un penalti porque el guardameta se adelantÃ³ de
+su lÃ­nea de meta. Â¿Puede otro jugador lanzar este segundo penalti?
+a) SÃ­, pero si se identifica previamente. El guardameta serÃ¡ amonestado.
 b) No.
-c) Sí; se podrá amonestar al guardameta y el ejecutor deberá identificarse.
-d) No, a menos que esté lesionado.
-2.- El árbitro ha dado la señal para el lanzamiento de un penalti y antes de que el balón esté en juego
-un jugador de cada equipo se sitúan a menos de 9,15 m del balón. La jugada finaliza en gol. ¿Qué
-decisión toma el árbitro?
-a) Deja continuar el juego y amonesta a ambos jugadores cuando el balón esté fuera de juego.
+c) SÃ­; se podrÃ¡ amonestar al guardameta y el ejecutor deberÃ¡ identificarse.
+d) No, a menos que estÃ© lesionado.
+2.- El Ã¡rbitro ha dado la seÃ±al para el lanzamiento de un penalti y antes de que el balÃ³n estÃ© en juego
+un jugador de cada equipo se sitÃºan a menos de 9,15 m del balÃ³n. La jugada finaliza en gol. Â¿QuÃ©
+decisiÃ³n toma el Ã¡rbitro?
+a) Deja continuar el juego y amonesta a ambos jugadores cuando el balÃ³n estÃ© fuera de juego.
 b) Amonesta a ambos jugadores y ordena repetir el tiro.
 c) Ordena que no se ejecute el penalti y amonesta verbalmente a los culpables.
 d) Ordena repetir el tiro.
-3.- Si un jugador que va a ejecutar un penalti lo pasa hacia atrás a un compañero, quien lanza el
-balón a gol. ¿Qué decisión toma el árbitro?
+3.- Si un jugador que va a ejecutar un penalti lo pasa hacia atrÃ¡s a un compaÃ±ero, quien lanza el
+balÃ³n a gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) No concede el gol y manda repetir el penalti.
 b) No concede el gol y manda reanudar el juego con un tiro libre indirecto en contra del equipo
 ejecutor a lanzarse desde el punto de penalti.
 c) No concede el gol y manda reanudar el juego con un tiro libre indirecto en contra del equipo
-ejecutor a lanzarse desde donde el compañero entró al área de penalti.
+ejecutor a lanzarse desde donde el compaÃ±ero entrÃ³ al Ã¡rea de penalti.
 d) Ninguna respuesta es correcta.
-4.- Un jugador ejecuta un penalti antes de que el árbitro de la señal. ¿Se repetirá siempre el penalti?
-a) No, en ningún caso.
-b) Dependerá de si el árbitro puede aplicar ventaja o no.
-c) Sí, en todos los casos.
+4.- Un jugador ejecuta un penalti antes de que el Ã¡rbitro de la seÃ±al. Â¿Se repetirÃ¡ siempre el penalti?
+a) No, en ningÃºn caso.
+b) DependerÃ¡ de si el Ã¡rbitro puede aplicar ventaja o no.
+c) SÃ­, en todos los casos.
 d) Ninguna respuesta es correcta.
-5.- Si en un penalti el guardameta se adelanta de la línea de meta antes de que se patee el balón y lo
-detiene, no anotando un gol. ¿Qué decisión toma el árbitro?
+5.- Si en un penalti el guardameta se adelanta de la lÃ­nea de meta antes de que se patee el balÃ³n y lo
+detiene, no anotando un gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Manda que se repita el penalti.
-b) Deja que el juego continúe.
+b) Deja que el juego continÃºe.
 c) Amonesta al guardameta por conducta antideportiva y manda repetir el penalti.
 d) Concede un tiro libre indirecto al equipo adversario.
-6.- ¿Puede el árbitro sancionar un penalti por una falta cometida por un defensor en su área de
-penalti estando el balón fuera de ella?
-a) Sí, si el jugador objeto de la falta está dentro de dicha área y el balón está en juego.
-b) Sí, siempre que la falta cometida sea una de las 11 sancionadas con un penalti, el jugador
-objeto de la misma esté dentro de dicha área y el balón no esté en juego.
+6.- Â¿Puede el Ã¡rbitro sancionar un penalti por una falta cometida por un defensor en su Ã¡rea de
+penalti estando el balÃ³n fuera de ella?
+a) SÃ­, si el jugador objeto de la falta estÃ¡ dentro de dicha Ã¡rea y el balÃ³n estÃ¡ en juego.
+b) SÃ­, siempre que la falta cometida sea una de las 11 sancionadas con un penalti, el jugador
+objeto de la misma estÃ© dentro de dicha Ã¡rea y el balÃ³n no estÃ© en juego.
 c) No, nunca.
-d) Sí, pero sólo si el jugador objeto de la misma está dentro del área de meta y el balón está en
+d) SÃ­, pero sÃ³lo si el jugador objeto de la misma estÃ¡ dentro del Ã¡rea de meta y el balÃ³n estÃ¡ en
 juego.
-7.- ¿Cuál de las siguientes afirmaciones no es correcta en un penalti?
-a) El balón se coloca inmóvil en el punto de penalti.
-b) El ejecutor del penalti patea el balón hacia delante.
-c) El ejecutor del tiro no puede volver a jugar el balón hasta que el mismo no haya tocado uno
-o ambos postes, o el travesaño o el guardameta o cualquier combinación entre todos ellos.
-d) El balón está en juego en el momento que es pateado y se mueve claramente.
-8.- El árbitro sanciona un penalti, el ejecutor coloca el balón rápidamente en el punto de penalti y
-sin la autorización del árbitro lanza a meta y consigue gol. ¿Qué decisión toma el árbitro?
+7.- Â¿CuÃ¡l de las siguientes afirmaciones no es correcta en un penalti?
+a) El balÃ³n se coloca inmÃ³vil en el punto de penalti.
+b) El ejecutor del penalti patea el balÃ³n hacia delante.
+c) El ejecutor del tiro no puede volver a jugar el balÃ³n hasta que el mismo no haya tocado uno
+o ambos postes, o el travesaÃ±o o el guardameta o cualquier combinaciÃ³n entre todos ellos.
+d) El balÃ³n estÃ¡ en juego en el momento que es pateado y se mueve claramente.
+8.- El Ã¡rbitro sanciona un penalti, el ejecutor coloca el balÃ³n rÃ¡pidamente en el punto de penalti y
+sin la autorizaciÃ³n del Ã¡rbitro lanza a meta y consigue gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
-b) Ordena la repetición del penalti.
-c) Ordena la repetición del penalti y amonesta al ejecutor.
+b) Ordena la repeticiÃ³n del penalti.
+c) Ordena la repeticiÃ³n del penalti y amonesta al ejecutor.
 d) Ninguna respuesta es completamente correcta.
-9.- ¿Está permitido que un jugador, al ejecutar un penalti, lance el balón hacia adelante para que
-pueda ser rematado por un compañero a gol?
-a) Sí, siempre que su compañero esté situado detrás del ejecutor.
-b) Sí, siempre que se hayan observado los procedimientos del penalti.
+9.- Â¿EstÃ¡ permitido que un jugador, al ejecutar un penalti, lance el balÃ³n hacia adelante para que
+pueda ser rematado por un compaÃ±ero a gol?
+a) SÃ­, siempre que su compaÃ±ero estÃ© situado detrÃ¡s del ejecutor.
+b) SÃ­, siempre que se hayan observado los procedimientos del penalti.
 c) No, el tiro de penalti debe ser lanzado directamente hacia la meta.
 d) Ninguna respuesta es completamente correcta.
-10.- ¿Cuál de las siguientes afirmaciones no es correcta?
-a) Si en un balón a tierra el balón toca el suelo y entra directamente en la meta sin ser tocado,
+10.- Â¿CuÃ¡l de las siguientes afirmaciones no es correcta?
+a) Si en un balÃ³n a tierra el balÃ³n toca el suelo y entra directamente en la meta sin ser tocado,
 se vuelve a repetir.
-b) Existen dos casos de amonestación que puede cometer el ejecutor de un penalti o un
-compañero, independientemente de que se anote gol o no.
+b) Existen dos casos de amonestaciÃ³n que puede cometer el ejecutor de un penalti o un
+compaÃ±ero, independientemente de que se anote gol o no.
 c) En los lanzamientos de tiros desde el punto de penalti para determinar el ganador de un
-partido, todos los jugadores titulares y suplentes deberán permanecer en el interior del
-círculo central, a excepción del jugador que lanza el penalti y los dos guardametas.
+partido, todos los jugadores titulares y suplentes deberÃ¡n permanecer en el interior del
+cÃ­rculo central, a excepciÃ³n del jugador que lanza el penalti y los dos guardametas.
 d) Un jugador que ha salido del campo para ser atendido de una herida sangrante puede volver
-al mismo cuando el árbitro lo autorice, aún con el balón en juego, pudiendo hacer la
-comprobación cualquier miembro del equipo arbitral autorizado.
-11.- Después de que el árbitro da la señal para la ejecución de un penalti, un compañero del jugador
+al mismo cuando el Ã¡rbitro lo autorice, aÃºn con el balÃ³n en juego, pudiendo hacer la
+comprobaciÃ³n cualquier miembro del equipo arbitral autorizado.
+11.- DespuÃ©s de que el Ã¡rbitro da la seÃ±al para la ejecuciÃ³n de un penalti, un compaÃ±ero del jugador
 identificado como ejecutor del tiro se adelanta y lanza el penalti. Al mismo tiempo un defensor se
-coloca a menos de 9,15 m del balón. El árbitro...
+coloca a menos de 9,15 m del balÃ³n. El Ã¡rbitro...
 a) detiene el juego y lo manda reanudar con un tiro libre indirecto en contra del equipo que
-ejecutó el penalti desde el punto de penalti. Amonesta al ejecutor por conducta
+ejecutÃ³ el penalti desde el punto de penalti. Amonesta al ejecutor por conducta
 antideportiva.
 b) detiene el juego y lo manda reanudar con un tiro libre indirecto en contra del equipo que
-ejecutó el penalti desde el lugar en donde se cometió la infracción.
+ejecutÃ³ el penalti desde el lugar en donde se cometiÃ³ la infracciÃ³n.
 c) amonesta al ejecutor por conducta antideportiva y ordena repetir el penalti.
 d) ordena repetir el penalti y amonesta al ejecutor.
-12.- Se prolonga un partido para que pueda lanzarse un penalti, el ejecutor patea el balón hacia
-adelante y después de desplazarse 10 cm se para en un charco. ¿Qué decisión toma el árbitro?
+12.- Se prolonga un partido para que pueda lanzarse un penalti, el ejecutor patea el balÃ³n hacia
+adelante y despuÃ©s de desplazarse 10 cm se para en un charco. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Ordena repetir el penalti.
 b) Da por finalizado el partido.
-c) Da un balón a tierra.
+c) Da un balÃ³n a tierra.
 d) Deja seguir el juego.
-13.- ¿Qué puede suceder en un penalti para que el árbitro sancione al equipo ejecutor con un tiro
-libre indirecto ante la entrada de un compañero en el área de penalti antes de que el balón esté en
+13.- Â¿QuÃ© puede suceder en un penalti para que el Ã¡rbitro sancione al equipo ejecutor con un tiro
+libre indirecto ante la entrada de un compaÃ±ero en el Ã¡rea de penalti antes de que el balÃ³n estÃ© en
 juego?
-a) Que el balón rebote en el guardameta, travesaño o poste de la meta y permanezca en juego.
-b) Que el balón rebote en el guardameta, travesaño o poste de la meta y sea jugado por un
+a) Que el balÃ³n rebote en el guardameta, travesaÃ±o o poste de la meta y permanezca en juego.
+b) Que el balÃ³n rebote en el guardameta, travesaÃ±o o poste de la meta y sea jugado por un
 adversario.
-c) Que el balón no entre en la meta.
+c) Que el balÃ³n no entre en la meta.
 d) Todas las respuestas son correctas.
-14.- En un penalti en el que se tiene que prolongar el tiempo para su ejecución, tras ser pateado, el
-balón pega en el larguero, entrando en la meta. ¿Qué decisión toma el árbitro?
+14.- En un penalti en el que se tiene que prolongar el tiempo para su ejecuciÃ³n, tras ser pateado, el
+balÃ³n pega en el larguero, entrando en la meta. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Puede anular el gol si se ha cumplido el tiempo del partido.
-b) Anula el gol. La acción del penalti finaliza en el momento en que el balón toca el larguero.
-c) Anula el gol si el balón no entra en la meta de forma directa.
+b) Anula el gol. La acciÃ³n del penalti finaliza en el momento en que el balÃ³n toca el larguero.
+c) Anula el gol si el balÃ³n no entra en la meta de forma directa.
 d) Concede el gol.
-15.- ¿Debe amonestar el árbitro a un jugador que abandona deliberadamente el terreno de juego, en
+15.- Â¿Debe amonestar el Ã¡rbitro a un jugador que abandona deliberadamente el terreno de juego, en
 el momento en el que se va a ejecutar un penalti?
-a) Sí, siempre.
+a) SÃ­, siempre.
 b) No, nunca.
-c) Sí, excepto si es por lesión.
+c) SÃ­, excepto si es por lesiÃ³n.
 d) Ninguna respuesta es correcta.
-16.- El árbitro da la señal de ejecutar un penalti, y antes de que el balón esté en juego, un
-compañero del ejecutor del tiro penetra en el área de penalti. El árbitro permite que continúe el
+16.- El Ã¡rbitro da la seÃ±al de ejecutar un penalti, y antes de que el balÃ³n estÃ© en juego, un
+compaÃ±ero del ejecutor del tiro penetra en el Ã¡rea de penalti. El Ã¡rbitro permite que continÃºe el
 juego y...
-a) si el balón no entra en la meta, el árbitro interrumpe el juego y manda reanudar el juego con
+a) si el balÃ³n no entra en la meta, el Ã¡rbitro interrumpe el juego y manda reanudar el juego con
 un tiro libre indirecto a favor del equipo defensor, a ejecutarse desde el lugar por donde
-entró en el área de penalti.
-b) si el balón no entra en la meta, manda repetir el penalti.
-c) si el balón rebota en el guardameta, el travesaño o en un poste de la meta y es tocado por
-este jugador, el árbitro interrumpe el juego, amonesta al jugador y manda reanudar el juego
+entrÃ³ en el Ã¡rea de penalti.
+b) si el balÃ³n no entra en la meta, manda repetir el penalti.
+c) si el balÃ³n rebota en el guardameta, el travesaÃ±o o en un poste de la meta y es tocado por
+este jugador, el Ã¡rbitro interrumpe el juego, amonesta al jugador y manda reanudar el juego
 con un tiro libre indirecto a favor del equipo defensor en el punto de penalti
-d) si el balón rebota en el guardameta, el travesaño o en un poste de la meta y es tocado por un
-jugador distinto al ejecutor del tiro, el árbitro interrumpe el juego y lo manda reanudar con
+d) si el balÃ³n rebota en el guardameta, el travesaÃ±o o en un poste de la meta y es tocado por un
+jugador distinto al ejecutor del tiro, el Ã¡rbitro interrumpe el juego y lo manda reanudar con
 un tiro libre indirecto a favor del equipo defensor en el punto de penalti
-17.- Durante la ejecución de un penalti, jugadores de ambos equipos entran en el área de penalti
-antes de que el balón esté en juego. El penalti se ejecuta y termina en gol. ¿Qué decisión toma el
-árbitro?
-a) Amonesta a los jugadores y reanuda con balón a tierra.
+17.- Durante la ejecuciÃ³n de un penalti, jugadores de ambos equipos entran en el Ã¡rea de penalti
+antes de que el balÃ³n estÃ© en juego. El penalti se ejecuta y termina en gol. Â¿QuÃ© decisiÃ³n toma el
+Ã¡rbitro?
+a) Amonesta a los jugadores y reanuda con balÃ³n a tierra.
 b) Amonesta a los jugadores y manda repetir el penalti.
 c) Concede el gol.
 d) Manda repetir el penalti.
-18.- En el lanzamiento de un penalti, una vez que el balón está en juego, el balón recibe el impacto
+18.- En el lanzamiento de un penalti, una vez que el balÃ³n estÃ¡ en juego, el balÃ³n recibe el impacto
 de un bote de refresco antes de que haya sido tocado por el guardameta o haya golpeado en los
-postes o el larguero. ¿Qué decisión toma el árbitro?
+postes o el larguero. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Ordena repetir el penalti.
-b) Da un balón a tierra en el lugar donde se produjo el impacto con el bote.
+b) Da un balÃ³n a tierra en el lugar donde se produjo el impacto con el bote.
 c) Si se consigue el gol, lo concede.
 d) Ninguna respuesta es correcta.
-19.- Si tras la señal del árbitro, se ejecuta un penalti correctamente y el balón se deteriora sin haber
-tocado a un jugador, los postes o el travesaño…
+19.- Si tras la seÃ±al del Ã¡rbitro, se ejecuta un penalti correctamente y el balÃ³n se deteriora sin haber
+tocado a un jugador, los postes o el travesaÃ±oÂ…
 a) Se repite el penalti.
 b) Se reanuda conforme a las Reglas.
 c) Se reanuda con tiro libre indirecto desde el punto de penalti.
 d) Ninguna es correcta.
-20.- “Un jugador que ejecuta un penalti hace fintas antes de patear el balón”. ¿Se permite esto?
-a) Sí, en todos los casos.
+20.- Â“Un jugador que ejecuta un penalti hace fintas antes de patear el balÃ³nÂ”. Â¿Se permite esto?
+a) SÃ­, en todos los casos.
 b) No, nunca.
-c) Sí, algunas veces.
-d) Queda a criterio del árbitro.
-21.- En el momento en el que el árbitro se dispone a dar la señal para la ejecución de un penalti, un
-defensor lo insulta. El árbitro lo expulsa y el equipo se queda con seis jugadores. Decisión:
+c) SÃ­, algunas veces.
+d) Queda a criterio del Ã¡rbitro.
+21.- En el momento en el que el Ã¡rbitro se dispone a dar la seÃ±al para la ejecuciÃ³n de un penalti, un
+defensor lo insulta. El Ã¡rbitro lo expulsa y el equipo se queda con seis jugadores. DecisiÃ³n:
 a) Permite el lanzamiento del penalti para no beneficiar al infractor, espera a que la jugada
 termine en su totalidad y finaliza el partido.
 b) Permite el lanzamiento del penalti y finaliza el partido en el momento en que el siguiente
-balón no esté en juego.
+balÃ³n no estÃ© en juego.
 c) Suspende definitivamente el partido sin llegar a lanzar el penalti e indica el incidente en el
 informe.
-d) Depende del reglamento de la competición, el partido debe suspenderse por quedar un
+d) Depende del reglamento de la competiciÃ³n, el partido debe suspenderse por quedar un
 equipo con menos de siete jugadores o puede continuar.
-22.- ¿Qué condición de las siguientes es necesaria para señalar un penalti por parte del árbitro?
-a) Que el balón esté en juego.
+22.- Â¿QuÃ© condiciÃ³n de las siguientes es necesaria para seÃ±alar un penalti por parte del Ã¡rbitro?
+a) Que el balÃ³n estÃ© en juego.
 b) Que la falta la realice un jugador que participa en el juego.
-c) Que el jugador que realice la falta esté fuera del área de penalti.
+c) Que el jugador que realice la falta estÃ© fuera del Ã¡rea de penalti.
 d) Que se haya cometido una de las infracciones sancionadas con tiro libre.
-23.- ¿Qué decisión toma el árbitro si tras lanzarse correctamente un penalti, el balón estalla antes de
+23.- Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro si tras lanzarse correctamente un penalti, el balÃ³n estalla antes de
 entrar en la meta?
 a) Manda repetir el penalti en todos los casos.
-b) Puede repetir el penalti o dar un balón a tierra.
-c) Da un balón a tierra en todos los casos.
-d) Repetir el penalti, balón a tierra o saque de esquina.
-24.- Durante la ejecución de un penalti y antes de que el balón esté en juego, un compañero del
-ejecutor del tiro entra en el área de penalti. Tras ejecutarse el penalti, el balón es rechazado a saque
-de esquina por el guardameta. El árbitro...
-a) ordena la repetición del penalti.
+b) Puede repetir el penalti o dar un balÃ³n a tierra.
+c) Da un balÃ³n a tierra en todos los casos.
+d) Repetir el penalti, balÃ³n a tierra o saque de esquina.
+24.- Durante la ejecuciÃ³n de un penalti y antes de que el balÃ³n estÃ© en juego, un compaÃ±ero del
+ejecutor del tiro entra en el Ã¡rea de penalti. Tras ejecutarse el penalti, el balÃ³n es rechazado a saque
+de esquina por el guardameta. El Ã¡rbitro...
+a) ordena la repeticiÃ³n del penalti.
 b) reanuda el juego mediante un saque de esquina.
 c) reanuda el juego mediante un tiro libre indirecto a favor del equipo defensor, a ejecutarse
-desde el lugar donde se cometió la infracción. Amonesta al jugador por conducta
+desde el lugar donde se cometiÃ³ la infracciÃ³n. Amonesta al jugador por conducta
 antideportiva.
 d) Ninguna respuesta es completamente correcta.
-25.- Si un defensor situado en su propia área de penalti golpea con uso excesivo de fuerza a un
-adversario mientras el balón está en juego en el área de penalti contraria. ¿Qué decisión toma el
-árbitro?
+25.- Si un defensor situado en su propia Ã¡rea de penalti golpea con uso excesivo de fuerza a un
+adversario mientras el balÃ³n estÃ¡ en juego en el Ã¡rea de penalti contraria. Â¿QuÃ© decisiÃ³n toma el
+Ã¡rbitro?
 a) Detiene el juego, lo expulsa por conducta violenta y sanciona con un penalti al equipo del
 jugador infractor.
 b) Detiene el juego, lo expulsa por juego brusco grave y sanciona con un penalti al equipo del
 jugador infractor.
 c) Detiene el juego, lo expulsa por conducta antideportiva y sanciona con un penalti al equipo
 del jugador infractor.
-d) Aplica ventaja y en la siguiente ocasión en la que el balón no esté en juego, lo expulsa y
+d) Aplica ventaja y en la siguiente ocasiÃ³n en la que el balÃ³n no estÃ© en juego, lo expulsa y
 reanuda el juego conforme a las reglas.
-26.- Se prolonga un partido para que pueda ejecutarse un penalti. ¿Puede el guardameta ser
+26.- Se prolonga un partido para que pueda ejecutarse un penalti. Â¿Puede el guardameta ser
 sustituido antes de ejecutarse el penalti?
 a) No, nunca.
-b) Sí, puede ser sustituido por un jugador que esté en el terreno de juego o por un sustituto,
-siempre que no se haya agotado el número máximo permitido de sustituciones.
-c) Sí, pero puede ser sustituido únicamente por otro jugador que estuviese en el terreno de
+b) SÃ­, puede ser sustituido por un jugador que estÃ© en el terreno de juego o por un sustituto,
+siempre que no se haya agotado el nÃºmero mÃ¡ximo permitido de sustituciones.
+c) SÃ­, pero puede ser sustituido Ãºnicamente por otro jugador que estuviese en el terreno de
 juego.
-d) Sí, pero sólo puede ser sustituido por el guardameta suplente.
-27.- Si tras ejecutarse un tiro de penalti, el balón se deteriora sin haber tocado a un jugador, el
-travesaño o los postes de meta…
-a) El juego se reanuda con la repetición del tiro de penalti.
+d) SÃ­, pero sÃ³lo puede ser sustituido por el guardameta suplente.
+27.- Si tras ejecutarse un tiro de penalti, el balÃ³n se deteriora sin haber tocado a un jugador, el
+travesaÃ±o o los postes de metaÂ…
+a) El juego se reanuda con la repeticiÃ³n del tiro de penalti.
 b) El juego se reanuda conforme a las Reglas.
 c) El juego se reanuda con un tiro libre indirecto desde el punto de penalti.
 d) Todas las respuestas pueden ser correctas.
 
 =======
-1.- El árbitro ordena que se repita el lanzamiento de un penalti porque el guardameta se adelantó de
-su línea de meta. ¿Puede otro jugador lanzar este segundo penalti?
-a) Sí, pero si se identifica previamente. El guardameta será amonestado.
+1.- El Ã¡rbitro ordena que se repita el lanzamiento de un penalti porque el guardameta se adelantÃ³ de
+su lÃ­nea de meta. Â¿Puede otro jugador lanzar este segundo penalti?
+a) SÃ­, pero si se identifica previamente. El guardameta serÃ¡ amonestado.
 b) No.
-c) Sí; se podrá amonestar al guardameta y el ejecutor deberá identificarse.
-d) No, a menos que esté lesionado.
-2.- El árbitro ha dado la señal para el lanzamiento de un penalti y antes de que el balón esté en juego
-un jugador de cada equipo se sitúan a menos de 9,15 m del balón. La jugada finaliza en gol. ¿Qué
-decisión toma el árbitro?
-a) Deja continuar el juego y amonesta a ambos jugadores cuando el balón esté fuera de juego.
+c) SÃ­; se podrÃ¡ amonestar al guardameta y el ejecutor deberÃ¡ identificarse.
+d) No, a menos que estÃ© lesionado.
+2.- El Ã¡rbitro ha dado la seÃ±al para el lanzamiento de un penalti y antes de que el balÃ³n estÃ© en juego
+un jugador de cada equipo se sitÃºan a menos de 9,15 m del balÃ³n. La jugada finaliza en gol. Â¿QuÃ©
+decisiÃ³n toma el Ã¡rbitro?
+a) Deja continuar el juego y amonesta a ambos jugadores cuando el balÃ³n estÃ© fuera de juego.
 b) Amonesta a ambos jugadores y ordena repetir el tiro.
 c) Ordena que no se ejecute el penalti y amonesta verbalmente a los culpables.
 d) Ordena repetir el tiro.
-3.- Si un jugador que va a ejecutar un penalti lo pasa hacia atrás a un compañero, quien lanza el
-balón a gol. ¿Qué decisión toma el árbitro?
+3.- Si un jugador que va a ejecutar un penalti lo pasa hacia atrÃ¡s a un compaÃ±ero, quien lanza el
+balÃ³n a gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) No concede el gol y manda repetir el penalti.
 b) No concede el gol y manda reanudar el juego con un tiro libre indirecto en contra del equipo
 ejecutor a lanzarse desde el punto de penalti.
 c) No concede el gol y manda reanudar el juego con un tiro libre indirecto en contra del equipo
-ejecutor a lanzarse desde donde el compañero entró al área de penalti.
+ejecutor a lanzarse desde donde el compaÃ±ero entrÃ³ al Ã¡rea de penalti.
 d) Ninguna respuesta es correcta.
-4.- Un jugador ejecuta un penalti antes de que el árbitro de la señal. ¿Se repetirá siempre el penalti?
-a) No, en ningún caso.
-b) Dependerá de si el árbitro puede aplicar ventaja o no.
-c) Sí, en todos los casos.
+4.- Un jugador ejecuta un penalti antes de que el Ã¡rbitro de la seÃ±al. Â¿Se repetirÃ¡ siempre el penalti?
+a) No, en ningÃºn caso.
+b) DependerÃ¡ de si el Ã¡rbitro puede aplicar ventaja o no.
+c) SÃ­, en todos los casos.
 d) Ninguna respuesta es correcta.
-5.- Si en un penalti el guardameta se adelanta de la línea de meta antes de que se patee el balón y lo
-detiene, no anotando un gol. ¿Qué decisión toma el árbitro?
+5.- Si en un penalti el guardameta se adelanta de la lÃ­nea de meta antes de que se patee el balÃ³n y lo
+detiene, no anotando un gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Manda que se repita el penalti.
-b) Deja que el juego continúe.
+b) Deja que el juego continÃºe.
 c) Amonesta al guardameta por conducta antideportiva y manda repetir el penalti.
 d) Concede un tiro libre indirecto al equipo adversario.
-6.- ¿Puede el árbitro sancionar un penalti por una falta cometida por un defensor en su área de
-penalti estando el balón fuera de ella?
-a) Sí, si el jugador objeto de la falta está dentro de dicha área y el balón está en juego.
-b) Sí, siempre que la falta cometida sea una de las 11 sancionadas con un penalti, el jugador
-objeto de la misma esté dentro de dicha área y el balón no esté en juego.
+6.- Â¿Puede el Ã¡rbitro sancionar un penalti por una falta cometida por un defensor en su Ã¡rea de
+penalti estando el balÃ³n fuera de ella?
+a) SÃ­, si el jugador objeto de la falta estÃ¡ dentro de dicha Ã¡rea y el balÃ³n estÃ¡ en juego.
+b) SÃ­, siempre que la falta cometida sea una de las 11 sancionadas con un penalti, el jugador
+objeto de la misma estÃ© dentro de dicha Ã¡rea y el balÃ³n no estÃ© en juego.
 c) No, nunca.
-d) Sí, pero sólo si el jugador objeto de la misma está dentro del área de meta y el balón está en
+d) SÃ­, pero sÃ³lo si el jugador objeto de la misma estÃ¡ dentro del Ã¡rea de meta y el balÃ³n estÃ¡ en
 juego.
-7.- ¿Cuál de las siguientes afirmaciones no es correcta en un penalti?
-a) El balón se coloca inmóvil en el punto de penalti.
-b) El ejecutor del penalti patea el balón hacia delante.
-c) El ejecutor del tiro no puede volver a jugar el balón hasta que el mismo no haya tocado uno
-o ambos postes, o el travesaño o el guardameta o cualquier combinación entre todos ellos.
-d) El balón está en juego en el momento que es pateado y se mueve claramente.
-8.- El árbitro sanciona un penalti, el ejecutor coloca el balón rápidamente en el punto de penalti y
-sin la autorización del árbitro lanza a meta y consigue gol. ¿Qué decisión toma el árbitro?
+7.- Â¿CuÃ¡l de las siguientes afirmaciones no es correcta en un penalti?
+a) El balÃ³n se coloca inmÃ³vil en el punto de penalti.
+b) El ejecutor del penalti patea el balÃ³n hacia delante.
+c) El ejecutor del tiro no puede volver a jugar el balÃ³n hasta que el mismo no haya tocado uno
+o ambos postes, o el travesaÃ±o o el guardameta o cualquier combinaciÃ³n entre todos ellos.
+d) El balÃ³n estÃ¡ en juego en el momento que es pateado y se mueve claramente.
+8.- El Ã¡rbitro sanciona un penalti, el ejecutor coloca el balÃ³n rÃ¡pidamente en el punto de penalti y
+sin la autorizaciÃ³n del Ã¡rbitro lanza a meta y consigue gol. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Concede el gol.
-b) Ordena la repetición del penalti.
-c) Ordena la repetición del penalti y amonesta al ejecutor.
+b) Ordena la repeticiÃ³n del penalti.
+c) Ordena la repeticiÃ³n del penalti y amonesta al ejecutor.
 d) Ninguna respuesta es completamente correcta.
-9.- ¿Está permitido que un jugador, al ejecutar un penalti, lance el balón hacia adelante para que
-pueda ser rematado por un compañero a gol?
-a) Sí, siempre que su compañero esté situado detrás del ejecutor.
-b) Sí, siempre que se hayan observado los procedimientos del penalti.
+9.- Â¿EstÃ¡ permitido que un jugador, al ejecutar un penalti, lance el balÃ³n hacia adelante para que
+pueda ser rematado por un compaÃ±ero a gol?
+a) SÃ­, siempre que su compaÃ±ero estÃ© situado detrÃ¡s del ejecutor.
+b) SÃ­, siempre que se hayan observado los procedimientos del penalti.
 c) No, el tiro de penalti debe ser lanzado directamente hacia la meta.
 d) Ninguna respuesta es completamente correcta.
-10.- ¿Cuál de las siguientes afirmaciones no es correcta?
-a) Si en un balón a tierra el balón toca el suelo y entra directamente en la meta sin ser tocado,
+10.- Â¿CuÃ¡l de las siguientes afirmaciones no es correcta?
+a) Si en un balÃ³n a tierra el balÃ³n toca el suelo y entra directamente en la meta sin ser tocado,
 se vuelve a repetir.
-b) Existen dos casos de amonestación que puede cometer el ejecutor de un penalti o un
-compañero, independientemente de que se anote gol o no.
+b) Existen dos casos de amonestaciÃ³n que puede cometer el ejecutor de un penalti o un
+compaÃ±ero, independientemente de que se anote gol o no.
 c) En los lanzamientos de tiros desde el punto de penalti para determinar el ganador de un
-partido, todos los jugadores titulares y suplentes deberán permanecer en el interior del
-círculo central, a excepción del jugador que lanza el penalti y los dos guardametas.
+partido, todos los jugadores titulares y suplentes deberÃ¡n permanecer en el interior del
+cÃ­rculo central, a excepciÃ³n del jugador que lanza el penalti y los dos guardametas.
 d) Un jugador que ha salido del campo para ser atendido de una herida sangrante puede volver
-al mismo cuando el árbitro lo autorice, aún con el balón en juego, pudiendo hacer la
-comprobación cualquier miembro del equipo arbitral autorizado.
-11.- Después de que el árbitro da la señal para la ejecución de un penalti, un compañero del jugador
+al mismo cuando el Ã¡rbitro lo autorice, aÃºn con el balÃ³n en juego, pudiendo hacer la
+comprobaciÃ³n cualquier miembro del equipo arbitral autorizado.
+11.- DespuÃ©s de que el Ã¡rbitro da la seÃ±al para la ejecuciÃ³n de un penalti, un compaÃ±ero del jugador
 identificado como ejecutor del tiro se adelanta y lanza el penalti. Al mismo tiempo un defensor se
-coloca a menos de 9,15 m del balón. El árbitro...
+coloca a menos de 9,15 m del balÃ³n. El Ã¡rbitro...
 a) detiene el juego y lo manda reanudar con un tiro libre indirecto en contra del equipo que
-ejecutó el penalti desde el punto de penalti. Amonesta al ejecutor por conducta
+ejecutÃ³ el penalti desde el punto de penalti. Amonesta al ejecutor por conducta
 antideportiva.
 b) detiene el juego y lo manda reanudar con un tiro libre indirecto en contra del equipo que
-ejecutó el penalti desde el lugar en donde se cometió la infracción.
+ejecutÃ³ el penalti desde el lugar en donde se cometiÃ³ la infracciÃ³n.
 c) amonesta al ejecutor por conducta antideportiva y ordena repetir el penalti.
 d) ordena repetir el penalti y amonesta al ejecutor.
-12.- Se prolonga un partido para que pueda lanzarse un penalti, el ejecutor patea el balón hacia
-adelante y después de desplazarse 10 cm se para en un charco. ¿Qué decisión toma el árbitro?
+12.- Se prolonga un partido para que pueda lanzarse un penalti, el ejecutor patea el balÃ³n hacia
+adelante y despuÃ©s de desplazarse 10 cm se para en un charco. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Ordena repetir el penalti.
 b) Da por finalizado el partido.
-c) Da un balón a tierra.
+c) Da un balÃ³n a tierra.
 d) Deja seguir el juego.
-13.- ¿Qué puede suceder en un penalti para que el árbitro sancione al equipo ejecutor con un tiro
-libre indirecto ante la entrada de un compañero en el área de penalti antes de que el balón esté en
+13.- Â¿QuÃ© puede suceder en un penalti para que el Ã¡rbitro sancione al equipo ejecutor con un tiro
+libre indirecto ante la entrada de un compaÃ±ero en el Ã¡rea de penalti antes de que el balÃ³n estÃ© en
 juego?
-a) Que el balón rebote en el guardameta, travesaño o poste de la meta y permanezca en juego.
-b) Que el balón rebote en el guardameta, travesaño o poste de la meta y sea jugado por un
+a) Que el balÃ³n rebote en el guardameta, travesaÃ±o o poste de la meta y permanezca en juego.
+b) Que el balÃ³n rebote en el guardameta, travesaÃ±o o poste de la meta y sea jugado por un
 adversario.
-c) Que el balón no entre en la meta.
+c) Que el balÃ³n no entre en la meta.
 d) Todas las respuestas son correctas.
-14.- En un penalti en el que se tiene que prolongar el tiempo para su ejecución, tras ser pateado, el
-balón pega en el larguero, entrando en la meta. ¿Qué decisión toma el árbitro?
+14.- En un penalti en el que se tiene que prolongar el tiempo para su ejecuciÃ³n, tras ser pateado, el
+balÃ³n pega en el larguero, entrando en la meta. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Puede anular el gol si se ha cumplido el tiempo del partido.
-b) Anula el gol. La acción del penalti finaliza en el momento en que el balón toca el larguero.
-c) Anula el gol si el balón no entra en la meta de forma directa.
+b) Anula el gol. La acciÃ³n del penalti finaliza en el momento en que el balÃ³n toca el larguero.
+c) Anula el gol si el balÃ³n no entra en la meta de forma directa.
 d) Concede el gol.
-15.- ¿Debe amonestar el árbitro a un jugador que abandona deliberadamente el terreno de juego, en
+15.- Â¿Debe amonestar el Ã¡rbitro a un jugador que abandona deliberadamente el terreno de juego, en
 el momento en el que se va a ejecutar un penalti?
-a) Sí, siempre.
+a) SÃ­, siempre.
 b) No, nunca.
-c) Sí, excepto si es por lesión.
+c) SÃ­, excepto si es por lesiÃ³n.
 d) Ninguna respuesta es correcta.
-16.- El árbitro da la señal de ejecutar un penalti, y antes de que el balón esté en juego, un
-compañero del ejecutor del tiro penetra en el área de penalti. El árbitro permite que continúe el
+16.- El Ã¡rbitro da la seÃ±al de ejecutar un penalti, y antes de que el balÃ³n estÃ© en juego, un
+compaÃ±ero del ejecutor del tiro penetra en el Ã¡rea de penalti. El Ã¡rbitro permite que continÃºe el
 juego y...
-a) si el balón no entra en la meta, el árbitro interrumpe el juego y manda reanudar el juego con
+a) si el balÃ³n no entra en la meta, el Ã¡rbitro interrumpe el juego y manda reanudar el juego con
 un tiro libre indirecto a favor del equipo defensor, a ejecutarse desde el lugar por donde
-entró en el área de penalti.
-b) si el balón no entra en la meta, manda repetir el penalti.
-c) si el balón rebota en el guardameta, el travesaño o en un poste de la meta y es tocado por
-este jugador, el árbitro interrumpe el juego, amonesta al jugador y manda reanudar el juego
+entrÃ³ en el Ã¡rea de penalti.
+b) si el balÃ³n no entra en la meta, manda repetir el penalti.
+c) si el balÃ³n rebota en el guardameta, el travesaÃ±o o en un poste de la meta y es tocado por
+este jugador, el Ã¡rbitro interrumpe el juego, amonesta al jugador y manda reanudar el juego
 con un tiro libre indirecto a favor del equipo defensor en el punto de penalti
-d) si el balón rebota en el guardameta, el travesaño o en un poste de la meta y es tocado por un
-jugador distinto al ejecutor del tiro, el árbitro interrumpe el juego y lo manda reanudar con
+d) si el balÃ³n rebota en el guardameta, el travesaÃ±o o en un poste de la meta y es tocado por un
+jugador distinto al ejecutor del tiro, el Ã¡rbitro interrumpe el juego y lo manda reanudar con
 un tiro libre indirecto a favor del equipo defensor en el punto de penalti
-17.- Durante la ejecución de un penalti, jugadores de ambos equipos entran en el área de penalti
-antes de que el balón esté en juego. El penalti se ejecuta y termina en gol. ¿Qué decisión toma el
-árbitro?
-a) Amonesta a los jugadores y reanuda con balón a tierra.
+17.- Durante la ejecuciÃ³n de un penalti, jugadores de ambos equipos entran en el Ã¡rea de penalti
+antes de que el balÃ³n estÃ© en juego. El penalti se ejecuta y termina en gol. Â¿QuÃ© decisiÃ³n toma el
+Ã¡rbitro?
+a) Amonesta a los jugadores y reanuda con balÃ³n a tierra.
 b) Amonesta a los jugadores y manda repetir el penalti.
 c) Concede el gol.
 d) Manda repetir el penalti.
-18.- En el lanzamiento de un penalti, una vez que el balón está en juego, el balón recibe el impacto
+18.- En el lanzamiento de un penalti, una vez que el balÃ³n estÃ¡ en juego, el balÃ³n recibe el impacto
 de un bote de refresco antes de que haya sido tocado por el guardameta o haya golpeado en los
-postes o el larguero. ¿Qué decisión toma el árbitro?
+postes o el larguero. Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro?
 a) Ordena repetir el penalti.
-b) Da un balón a tierra en el lugar donde se produjo el impacto con el bote.
+b) Da un balÃ³n a tierra en el lugar donde se produjo el impacto con el bote.
 c) Si se consigue el gol, lo concede.
 d) Ninguna respuesta es correcta.
-19.- Si tras la señal del árbitro, se ejecuta un penalti correctamente y el balón se deteriora sin haber
-tocado a un jugador, los postes o el travesaño…
+19.- Si tras la seÃ±al del Ã¡rbitro, se ejecuta un penalti correctamente y el balÃ³n se deteriora sin haber
+tocado a un jugador, los postes o el travesaÃ±oÂ…
 a) Se repite el penalti.
 b) Se reanuda conforme a las Reglas.
 c) Se reanuda con tiro libre indirecto desde el punto de penalti.
 d) Ninguna es correcta.
-20.- “Un jugador que ejecuta un penalti hace fintas antes de patear el balón”. ¿Se permite esto?
-a) Sí, en todos los casos.
+20.- Â“Un jugador que ejecuta un penalti hace fintas antes de patear el balÃ³nÂ”. Â¿Se permite esto?
+a) SÃ­, en todos los casos.
 b) No, nunca.
-c) Sí, algunas veces.
-d) Queda a criterio del árbitro.
-21.- En el momento en el que el árbitro se dispone a dar la señal para la ejecución de un penalti, un
-defensor lo insulta. El árbitro lo expulsa y el equipo se queda con seis jugadores. Decisión:
+c) SÃ­, algunas veces.
+d) Queda a criterio del Ã¡rbitro.
+21.- En el momento en el que el Ã¡rbitro se dispone a dar la seÃ±al para la ejecuciÃ³n de un penalti, un
+defensor lo insulta. El Ã¡rbitro lo expulsa y el equipo se queda con seis jugadores. DecisiÃ³n:
 a) Permite el lanzamiento del penalti para no beneficiar al infractor, espera a que la jugada
 termine en su totalidad y finaliza el partido.
 b) Permite el lanzamiento del penalti y finaliza el partido en el momento en que el siguiente
-balón no esté en juego.
+balÃ³n no estÃ© en juego.
 c) Suspende definitivamente el partido sin llegar a lanzar el penalti e indica el incidente en el
 informe.
-d) Depende del reglamento de la competición, el partido debe suspenderse por quedar un
+d) Depende del reglamento de la competiciÃ³n, el partido debe suspenderse por quedar un
 equipo con menos de siete jugadores o puede continuar.
-22.- ¿Qué condición de las siguientes es necesaria para señalar un penalti por parte del árbitro?
-a) Que el balón esté en juego.
+22.- Â¿QuÃ© condiciÃ³n de las siguientes es necesaria para seÃ±alar un penalti por parte del Ã¡rbitro?
+a) Que el balÃ³n estÃ© en juego.
 b) Que la falta la realice un jugador que participa en el juego.
-c) Que el jugador que realice la falta esté fuera del área de penalti.
+c) Que el jugador que realice la falta estÃ© fuera del Ã¡rea de penalti.
 d) Que se haya cometido una de las infracciones sancionadas con tiro libre.
-23.- ¿Qué decisión toma el árbitro si tras lanzarse correctamente un penalti, el balón estalla antes de
+23.- Â¿QuÃ© decisiÃ³n toma el Ã¡rbitro si tras lanzarse correctamente un penalti, el balÃ³n estalla antes de
 entrar en la meta?
 a) Manda repetir el penalti en todos los casos.
-b) Puede repetir el penalti o dar un balón a tierra.
-c) Da un balón a tierra en todos los casos.
-d) Repetir el penalti, balón a tierra o saque de esquina.
-24.- Durante la ejecución de un penalti y antes de que el balón esté en juego, un compañero del
-ejecutor del tiro entra en el área de penalti. Tras ejecutarse el penalti, el balón es rechazado a saque
-de esquina por el guardameta. El árbitro...
-a) ordena la repetición del penalti.
+b) Puede repetir el penalti o dar un balÃ³n a tierra.
+c) Da un balÃ³n a tierra en todos los casos.
+d) Repetir el penalti, balÃ³n a tierra o saque de esquina.
+24.- Durante la ejecuciÃ³n de un penalti y antes de que el balÃ³n estÃ© en juego, un compaÃ±ero del
+ejecutor del tiro entra en el Ã¡rea de penalti. Tras ejecutarse el penalti, el balÃ³n es rechazado a saque
+de esquina por el guardameta. El Ã¡rbitro...
+a) ordena la repeticiÃ³n del penalti.
 b) reanuda el juego mediante un saque de esquina.
 c) reanuda el juego mediante un tiro libre indirecto a favor del equipo defensor, a ejecutarse
-desde el lugar donde se cometió la infracción. Amonesta al jugador por conducta
+desde el lugar donde se cometiÃ³ la infracciÃ³n. Amonesta al jugador por conducta
 antideportiva.
 d) Ninguna respuesta es completamente correcta.
-25.- Si un defensor situado en su propia área de penalti golpea con uso excesivo de fuerza a un
-adversario mientras el balón está en juego en el área de penalti contraria. ¿Qué decisión toma el
-árbitro?
+25.- Si un defensor situado en su propia Ã¡rea de penalti golpea con uso excesivo de fuerza a un
+adversario mientras el balÃ³n estÃ¡ en juego en el Ã¡rea de penalti contraria. Â¿QuÃ© decisiÃ³n toma el
+Ã¡rbitro?
 a) Detiene el juego, lo expulsa por conducta violenta y sanciona con un penalti al equipo del
 jugador infractor.
 b) Detiene el juego, lo expulsa por juego brusco grave y sanciona con un penalti al equipo del
 jugador infractor.
 c) Detiene el juego, lo expulsa por conducta antideportiva y sanciona con un penalti al equipo
 del jugador infractor.
-d) Aplica ventaja y en la siguiente ocasión en la que el balón no esté en juego, lo expulsa y
+d) Aplica ventaja y en la siguiente ocasiÃ³n en la que el balÃ³n no estÃ© en juego, lo expulsa y
 reanuda el juego conforme a las reglas.
-26.- Se prolonga un partido para que pueda ejecutarse un penalti. ¿Puede el guardameta ser
+26.- Se prolonga un partido para que pueda ejecutarse un penalti. Â¿Puede el guardameta ser
 sustituido antes de ejecutarse el penalti?
 a) No, nunca.
-b) Sí, puede ser sustituido por un jugador que esté en el terreno de juego o por un sustituto,
-siempre que no se haya agotado el número máximo permitido de sustituciones.
-c) Sí, pero puede ser sustituido únicamente por otro jugador que estuviese en el terreno de
+b) SÃ­, puede ser sustituido por un jugador que estÃ© en el terreno de juego o por un sustituto,
+siempre que no se haya agotado el nÃºmero mÃ¡ximo permitido de sustituciones.
+c) SÃ­, pero puede ser sustituido Ãºnicamente por otro jugador que estuviese en el terreno de
 juego.
-d) Sí, pero sólo puede ser sustituido por el guardameta suplente.
-27.- Si tras ejecutarse un tiro de penalti, el balón se deteriora sin haber tocado a un jugador, el
-travesaño o los postes de meta…
-a) El juego se reanuda con la repetición del tiro de penalti.
+d) SÃ­, pero sÃ³lo puede ser sustituido por el guardameta suplente.
+27.- Si tras ejecutarse un tiro de penalti, el balÃ³n se deteriora sin haber tocado a un jugador, el
+travesaÃ±o o los postes de metaÂ…
+a) El juego se reanuda con la repeticiÃ³n del tiro de penalti.
 b) El juego se reanuda conforme a las Reglas.
 c) El juego se reanuda con un tiro libre indirecto desde el punto de penalti.
 d) Todas las respuestas pueden ser correctas.
 
->>>>>>> master
 FIN
