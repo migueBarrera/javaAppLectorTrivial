@@ -450,7 +450,7 @@ a) El número de jugadores.
 b) Los jugadores del partido.
 c) Los jugadores.
 d) Los jugadores y sustitutos.
-64. Un jugador vuelve a entrar en el terreno de juego sin recibir señal alguna del árbitro y toca el
+64.- Un jugador vuelve a entrar en el terreno de juego sin recibir señal alguna del árbitro y toca el
 balón de forma deliberada con la mano. ¿Qué decisión toma el árbitro?
 a) Lo amonesta por entrar al terreno de juego sin su permiso.
 b) Reanuda el juego con un tiro libre directo o un penalti, amonestando sólo en el caso de evitar
