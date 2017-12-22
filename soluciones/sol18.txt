@@ -1,0 +1,65 @@
+1 C Procedimiento de sustitución.
+2 A Número de jugadores.
+3 C Procedimiento de sustitución.
+4 B Número de sustituciones. Otros partidos.
+5 B Procedimiento de sustitución.
+6 B Jugadores y sustitutos expulsados.
+7 A Número de jugadores.
+8 C Se podrán utilizar, no “nombrar”.
+9 B Procedimiento de sustitución.
+10 C Cambio de guardameta. Infracciones y sanciones.
+11 A Número de sustituciones. Competiciones oficiales.
+12 A Procedimiento de sustitución.
+13 B Infracciones y sanciones para cualquier otra infracción.
+14 A Número de jugadores.
+15 B Jugador fuera del terreno de juego.
+16 C Cambio de guardameta.
+17 B Número de jugadores y número de sustituciones.
+18 C Regla 10. Tiros desde el punto de penalti.
+19 C La sustitución es efectiva cuando el sustituto entra en el TJ.
+20 C Regla 14. Infracciones y sanciones.
+21 B Gol anotado con una persona no autorizada en el TJ.
+22 B Personas no autorizadas en el terreno de juego.
+23 A Número de sustituciones. Competiciones oficiales.
+24 A Número de sustituciones. Competiciones oficiales.
+25 A Cambio de guardameta.
+26 A Jugador fuera del terreno de juego.
+27 A Número de sustituciones. Competiciones oficiales.
+28 B Sustituciones ilimitadas.
+29 A Número de jugadores.
+30 A Procedimiento de sustitución.
+31 A Gol anotado con una persona no autorizada en el TJ.
+32 C Número de jugadores.
+33 A Infracciones y sanciones.
+34 B Infracciones y sanciones.
+35 B Procedimiento de sustitución.
+36 C Regla 10. Tiros desde el punto de penalti.
+37 A Número de jugadores.
+38 C Jugadores y sustitutos expulsados.
+39 C Gol anotado con una persona no autorizada en el TJ.
+40 C Capitán del equipo.
+41 C Regla 5. Poderes y deberes. Infracción más grave.
+42 C Personas no autorizadas en el terreno de juego.
+43 B
+44 B Infracciones y sanciones.
+45 C Personas no autorizadas en el terreno de juego.
+46 A Procedimiento de sustitución.
+47 C Regla 11. Infracciones y sanciones.
+48 B Número de jugadores.
+49 B Cambio de guardameta.
+50 B Regla 5. Poderes y deberes. Lesiones.
+51 A Infracciones y sanciones.
+52 B Regla 5. Poderes y deberes. Lesiones.
+53 B
+54 C Personas no autorizadas en el terreno de juego.
+55 A Errata en la versión española de las Reglas. La versión inglesa indica que únicamente se debe reanudar con balón a tierra (página 51). 
+56 C Gol anotado con una persona no autorizada en el TJ.
+57 B
+58 A Salida temporal permitida.
+59 B Regla 12. Reanudación del juego tras falta y conducta incorrecta.
+60 C Jugadores y sustitutos expulsados.
+61 C Jugadores y sustitutos expulsados.
+62 C Jugador fuera del terreno de juego.
+63 A Procedimiento de sustitución.
+64 C Número de jugadores.
+65 C Personas no autorizadas en el terreno de juego.

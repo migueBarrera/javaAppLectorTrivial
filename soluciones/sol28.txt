@@ -1,0 +1,46 @@
+1 C Procedimiento.
+2 B
+3 C Tipos de tiros libres.
+4 B
+5 B
+6 C Depende de la meta y de si fue ejecutado correctamente.
+7 C Procedimiento.
+8 C
+9 C El balón no está en juego.
+10 C Adversarios vs compañeros.
+11 C Procedimiento.
+12 A Procedimiento.
+13 A Tipos de tiros libres.
+14 C
+15 B Distancia reglamentaria (adversarios).
+16 B Intercepta = Dejar seguir. Infracciones y sanciones.
+17 A Golpea = Involuntario
+18 C Procedimiento.
+19 C Infracciones y sanciones.
+20 A El balón no está en juego.
+21 A Al tocarlo, ya no es directamente (ventaja).
+22 C Se sitúa = Deliberado. Infracciones y sanciones.
+23 B El equipo ejecutor.
+24 A Procedimiento. Al menos a 9,15 y fuera del área de penalti.
+25 C Depende de la meta y de si fue ejecutado correctamente.
+26 C Depende de la meta y de si fue ejecutado correctamente.
+27 A Procedimiento.
+28 C Impide deliberadamente = Infracción. Infracciones y sanciones.
+29 A Procedimiento. Es así en la Regla 14.
+30 B Entradas / salidas sin permiso, inf. en salidas como parte del juego...
+31 B Infracciones y sanciones
+32 C Procedimiento 9,15 + Entre los postes + Fuera del área de penalti.
+33 A El balón no está en juego.
+34 C Depende de si fueron sin permiso o como parte de la jugada.
+35 A
+36 B
+37 C Sí. En juego = Pateado + Se mueve con claridad.
+38 C Infracciones y sanciones.
+39 C Tipos de tiros libres.
+40 C Procedimiento.
+41 A Procedimiento.
+42 B Procedimiento.
+43 C Tipos de tiros libres.
+44 C Procedimiento. Esa es precisamente la norma general.
+45 C
+46 B Entre los postes + No sale del área de penalti + Guardameta .Los otros lugares se asocian a las Reglas 3, 11 y 12.

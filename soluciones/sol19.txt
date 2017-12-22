@@ -1,0 +1,37 @@
+1 A Infracciones y sanciones.
+2 C Equipamiento obligatorio.
+3 B Seguridad.
+4 C Infracciones y sanciones.
+5 C Equipamiento obligatorio.
+6 B Equipamiento obligatorio.
+7 C
+8 C Colores.
+9 B Otro equipamiento.
+10 A Seguridad.
+11 C Otro equipamiento.
+12 C Equipamiento obligatorio.
+13 B Colores.
+14 A Equipamiento obligatorio.
+15 B
+16 A Equipamiento obligatorio.
+17 C Equipamiento obligatorio.
+18 C Otro equipamiento.
+19 A Infracciones y sanciones.
+20 C Colores.
+21 C Colores.
+22 A Seguridad.
+23 C Seguridad.
+24 A
+25 C Seguridad.
+26 B
+27 A Equipamiento obligatorio.
+28 C Equipamiento obligatorio (calzado).
+29 A Seguridad.
+30 B Colores.
+31 C Infracciones y sanciones.
+32 C Infracciones y sanciones.
+33 C Equipamiento obligatorio.
+34 C Otro equipamiento.
+35 C Infracciones y sanciones.
+36 C
+37 B

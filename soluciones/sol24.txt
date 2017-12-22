@@ -1,0 +1,6 @@
+1 B Balón en juego.
+2 A Balón fuera de juego.
+3 A Balón fuera de juego.
+4 B Balón en juego.
+5 B Balón fuera de juego.
+6 B Balón en juego.

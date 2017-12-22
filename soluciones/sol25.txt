@@ -1,0 +1,37 @@
+1 A Gol marcado.
+2 C
+3 C Equipo ganador.
+4 B Regla 11. Infracciones y sanciones.
+5 C Gol marcado. Falta o infracción. Equipo anotador.
+6 B El balón está en juego en todo momento.
+7 A Equipo ganador.
+8 A Equipo ganador.
+9 C Gol claro.
+10 A Regla 3. Personas no autorizadas en el terreno de juego.
+11 B Regla 13. Procedimiento.
+12 C Guardameta desde su propia área de penalti.
+13 B Equipo ganador.
+14 C Equipo ganador.
+15 B Gol marcado. Falta o infracción. Equipo anotador.
+16 C Regla 3. Personas no autorizadas en el TJ + Regla 12. Expulsión.
+17 A Gol marcado. El juego ya se ha reanudado.
+18 C Aplicación de la ventaja + Regla 12. Amonestación.
+19 A
+20 C Regla 5. Decisiones del árbitro.
+21 A Regla 12. Conducta antideportiva.
+22 B El juego no se ha reanudado.
+23 B Regla 5. Poderes y deberes. Interferencia externa.
+24 B Regla 12. Celebración de un gol.
+25 A Regla 5. Poderes y deberes. Interferencia externa.
+26 C Depende de si el saque fue correctamente ejecutado o no.
+27 A Tiros desde el punto de penalti.
+28 B Tiros desde el punto de penalti.
+29 C Tiros desde el punto de penalti.
+30 C Tiros desde el punto de penalti.
+31 A Tiros desde el punto de penalti.
+32 C Tiros desde el punto de penalti.
+33 B Tiros desde el punto de penalti.
+34 C Tiros desde el punto de penalti. Modificación 2016-2017.
+35 A Tiros desde el punto de penalti.
+36 A Tiros desde el punto de penalti.
+37 B Tiros desde el punto de penalti. Modificación 2016-2017.

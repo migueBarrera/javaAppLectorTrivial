@@ -1,0 +1,101 @@
+1 C Tocar el balón con la mano.
+2 A Conducta antideportiva. Falta de respeto por el juego.
+3 A
+4 B Sólo sería con el pie y cedido de forma intencionada.
+5 A Juego Brusco Grave.
+6 B Conducta antideportiva + TLI (cualquier otra no mencionada).
+7 A Infracciones sancionables con expulsión.
+8 C Tiro libre directo.
+9 A Tiro libre indirecto.
+10 C Balón fuera de juego = Conducta violenta.
+11 B Impedir un gol o una ocasión manifiesta de gol. Tentativa.
+12 B TLI => “Cedido intencionadamente”.
+13 C Infracciones sancionables con expulsión.
+14 B Sólo podrá hacerlo en el TJ y sus inmediaciones.
+15 C Regla 3. Jugador fuera del TJ + Regla 13. Procedimiento.
+16 C Desaprobar con palabras o acciones.
+17 C Reanudación tras faltas y conducta incorrecta.
+18 C Regla 8. El balón no está en juego hasta que toca el suelo.
+19 C Conducta antideportiva. Falta de respeto por el juego.
+20 C Reanudación tras faltas y conducta incorrecta.
+21 B Existe infracción o no. Existe tentativa o no.
+22 C Tiro libre directo.
+23 C Impedir un gol o una ocasión manifiesta de gol.
+24 B El guardameta estará en posesión del balón.
+25 B Impide o no un ataque prometedor.
+26 A Medidas disciplinarias. Ventaja.
+27 C Reanudación tras faltas y conducta incorrecta.
+28 C Tiro libre indirecto.
+29 C Reanudación tras faltas y conducta incorrecta. Modificación 17-18.
+30 B Juego peligroso.
+31 C
+32 B Tiro libre directo y tiro libre indirecto
+33 B “Despejándolo” + Excepto salvada.
+34 A Circular No 11 I.F.A.B. 2017-2018.
+35 C Reanudación tras faltas y conducta incorrecta. Modificación 17-18. Al ser en el área técnica, no puede ser nunca penalti.
+36 C Reanudación tras faltas y conducta incorrecta. Modificación 17-18.
+37 C Depende de la fuerza empleada.
+38 C Conducta antideportiva + TLI (cualquier otra no mencionada).
+39 C Juego brusco grave
+40 C Repercusión: ataque prometedor / oportunidad manifiesta de gol.
+41 C
+42 B Tiro libre directo.
+43 C Regla 5. Poderes y deberes. Infracción más grave.
+44 A Glosario: definición de Terreno de Juego.
+45 A
+46 A La conducta violenta puede ser con balón en juego o fuera de juego.
+47 C Escupir es sancionado con tiro libre directo.
+48 C La infracción se comete sobre el balón.
+49 B Regla 3. Personas no autorizadas en el terreno de juego.
+50 A La infracción la comete el jugador.
+51 A Circular No 11 I.F.A.B. 2017-2018.
+52 C Infracciones sancionables con una expulsión.
+53 B Se mantiene la amonestación en infracciones que impliquen “daño”.
+54 B Regla 3. Personas no autorizadas en el terreno de juego.
+55 C Infracciones verbales son tiro libre indirecto.
+56 A Tiro libre directo.
+57 C Regla 11. Infracciones y sanciones.
+58 B .
+59 A Reanudación del juego tras faltas y conducta incorrecta
+60 B Regla 5. Poderes y deberes. Interferencia externa.
+61 A Reanudación del juego tras faltas y conducta incorrecta
+62 C Juego Brusco Grave.
+63 A Conducta antideportiva. Falta de respeto por el juego.
+64 C No se puede conseguir un gol directo de saque de banda.
+65 A Modificación 2017-2018.
+66 A Conducta antideportiva. Falta de respeto por el juego.
+67 B Reanudación tras faltas y conducta incorrecta.
+68 C Reanudación tras faltas y conducta incorrecta.
+69 C Reanudación tras faltas y conducta incorrecta. Modificación 17-18.
+70 B
+71 B Impedir una ocasión manifiesta de gol.
+72 B Juego peligroso.
+73 C Circular No 11 I.F.A.B. 2017-2018.
+74 B Portero / jugador. Dentro / fuera del área de penalti.
+75 C Reanudación tras faltas y conducta incorrecta.
+76 B Ventaja + Conducta antideportiva.
+77 C Personas no autorizadas en el TJ.
+78 C Tiro libre indirecto.
+79 B Más de una infracción al mismo tiempo.
+80 C Se considera “cesión”.
+81 B Ventaja.
+82 C Regla 5. Infracción más grave.
+83 B Entrada TJ + CV + balón fuera de juego.
+84 C Depende del área de penalti.
+85 B Tiro libre directo.
+86 C Depende de quién la cometa y el tipo de infracción.
+87 C Regla 1. Marcación del terreno.
+88 B Sólo se amonestará si lo hace fuera del área de penalti (CA).
+89 C Impedir una ocasión manifiesta de gol.
+90 B Juego Brusco Grave + Regla 13. Procedimiento.
+91 B Regla 13. Procedimiento.
+92 C Depende del tipo de infracción.
+93 C Infracciones relacionadas con el lanzamiento de objetos.
+94 B Debe evitar AP, para ser motivo de amonestación.
+95 C Regla 3. Personas no autorizadas en el TJ.
+96 C Depende del lugar y de quién toca el balón (guardameta)
+97 B Entrada al TJ + infracción; al menos amonestación.
+98 B El jugador puede interferir en el juego o no.
+99 C Depende de contra quién se cometa / quién la cometa.
+100 C Conducta antideportiva. Falta de respeto por el juego.
+101 C Depende de contra quién se cometa / quién la cometa.

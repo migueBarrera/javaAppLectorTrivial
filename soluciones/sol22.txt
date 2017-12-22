@@ -1,0 +1,26 @@
+1 C Períodos de juego.
+2 B
+3 C Recuperación del tiempo perdido.
+4 C Pausa del medio tiempo.
+5 A Partido suspendido definitivamente.
+6 C Pausa del medio tiempo.
+7 C
+8 A Recuperación del tiempo perdido.
+9 C
+10 B
+11 C
+12 A Recuperación del tiempo perdido.
+13 A Regla 5. Decisiones del árbitro.
+14 A Períodos de juego.
+15 B Penalti.
+16 B Pausa del medio tiempo.
+17 C Recuperación del tiempo perdido.
+18 C Regla 5. Decisiones del árbitro.
+19 C Recuperación del tiempo perdido.
+20 C Pausa del medio tiempo.
+21 A Recuperación del tiempo perdido.
+22 B Pausa del medio tiempo.
+23 B Recuperación del tiempo perdido.
+24 C Recuperación del tiempo perdido.
+25 B Pausa del medio tiempo.
+26 A Partido suspendido definitivamente.

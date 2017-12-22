@@ -1,0 +1,26 @@
+1 A Balón a tierra. Infracciones y sanciones.
+2 C Balón a tierra. Infracciones y sanciones.
+3 B Balón a tierra. Infracciones y sanciones.
+4 A Saque inicial. Infracciones y sanciones.
+5 C Saque inicial. Procedimiento.
+6 B Balón a tierra. Regla 2. Sustitución de un balón defectuoso.
+7 C Balón a tierra. Procedimiento.
+8 C Saque inicial. Procedimiento.
+9 B Puede tratarse de una lesión provocada por una infracción.
+10 C Puede indicarse el final del partido.
+11 C Saque inicial. Procedimiento.
+12 A Introducción de la Regla 8.
+13 C Balón a tierra. Infracciones y sanciones.
+14 C Saque inicial. Procedimiento.
+15 A
+16 B Saque inicial. Infracciones y sanciones.
+17 B Saque inicial. Infracciones y sanciones.
+18 C Saque inicial. Infracciones y sanciones.
+19 C Introducción de la Regla 8 + Procedimiento saque inicial
+20 A Depende de si la ejecución es correcta o no.
+21 C Balón a tierra. Procedimiento.
+22 C
+23 B
+24 C Regla 5. Poderes y deberes.
+25 B Balón a tierra. Infracciones y sanciones. Depende de la meta.
+26 B Balón a tierra. Infracciones y sanciones.

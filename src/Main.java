@@ -17,7 +17,7 @@ public class Main {
 		System.out.println("INICIO DEL PROGRAMA");
 
 		//CAMBIAR ESTOS DATOS SEGUN LA REGLA
-				int numeroDeRegla = 1;
+				int numeroDeRegla = 16;
 		do{
 			int REGLA_ID = numeroDeRegla;
 			String tituloRegla = "reglas/"+numeroDeRegla+".txt";
@@ -111,6 +111,7 @@ public class Main {
 
 					}finally {
 						try {
+							manejadoraBD.closeConection();
 							brRegla.close();
 							brSolucion.close();
 						} catch (IOException e) {
@@ -121,7 +122,7 @@ public class Main {
 			    
 			
 			numeroDeRegla++;
-		}while(numeroDeRegla<=15);
+		}while(numeroDeRegla<=30);
 		
 		System.out.println("FIN DEL PROGRAMA");
 		
